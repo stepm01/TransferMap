@@ -24,7 +24,7 @@ const db = getFirestore();
 const AI_PROVIDER = "groq";
 
 // Groq (FREE - 14,400 requests/day)
-const GROQ_API_KEY = "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"; // <-- Paste your key
+const GROQ_API_KEY = ""; // <-- Paste your key
 const GROQ_BASE_URL = "https://api.groq.com/openai/v1";
 const GROQ_MODEL = "llama-3.3-70b-versatile"; // Fast & capable
 
