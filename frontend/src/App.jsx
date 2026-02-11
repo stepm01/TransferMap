@@ -20,11 +20,11 @@ import { auth } from './firebase';
 import { addCourseToTranscript, removeCourseFromTranscript } from './fireData';
 const db = getFirestore();
 
-// ==================== OPENROUTER CONFIGURATION ====================
+// ====================CONFIGURATION ====================
 const AI_PROVIDER = "groq";
 
 // Groq (FREE - 14,400 requests/day)
-const GROQ_API_KEY = ""; // <-- Paste your key
+const GROQ_API_KEY = nothing; 
 const GROQ_BASE_URL = "https://api.groq.com/openai/v1";
 const GROQ_MODEL = "llama-3.3-70b-versatile"; // Fast & capable
 
