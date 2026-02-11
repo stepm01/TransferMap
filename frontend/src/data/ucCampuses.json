@@ -1,0 +1,115 @@
+{
+  "lastUpdated": "2025-02-04",
+  "source": "University of California Office of the President",
+  "totalCampuses": 9,
+  "campuses": [
+    {
+      "id": "ucb",
+      "name": "UC Berkeley",
+      "shortName": "Berkeley",
+      "location": "Berkeley, CA",
+      "website": "www.berkeley.edu",
+      "admissionsUrl": "admissions.berkeley.edu",
+      "assistUrl": "https://assist.org/transfer/institution/110",
+      "selectivity": "highly_selective",
+      "mascot": "Golden Bears",
+      "color": "#003262"
+    },
+    {
+      "id": "ucd",
+      "name": "UC Davis",
+      "shortName": "Davis",
+      "location": "Davis, CA",
+      "website": "www.ucdavis.edu",
+      "admissionsUrl": "admissions.ucdavis.edu",
+      "assistUrl": "https://assist.org/transfer/institution/111",
+      "selectivity": "selective",
+      "mascot": "Aggies",
+      "color": "#002855"
+    },
+    {
+      "id": "uci",
+      "name": "UC Irvine",
+      "shortName": "Irvine",
+      "location": "Irvine, CA",
+      "website": "www.uci.edu",
+      "admissionsUrl": "admissions.uci.edu",
+      "assistUrl": "https://assist.org/transfer/institution/112",
+      "selectivity": "selective",
+      "mascot": "Anteaters",
+      "color": "#0064A4"
+    },
+    {
+      "id": "ucla",
+      "name": "UCLA",
+      "shortName": "Los Angeles",
+      "location": "Los Angeles, CA",
+      "website": "www.ucla.edu",
+      "admissionsUrl": "admission.ucla.edu",
+      "assistUrl": "https://assist.org/transfer/institution/113",
+      "selectivity": "highly_selective",
+      "mascot": "Bruins",
+      "color": "#2774AE"
+    },
+    {
+      "id": "ucm",
+      "name": "UC Merced",
+      "shortName": "Merced",
+      "location": "Merced, CA",
+      "website": "www.ucmerced.edu",
+      "admissionsUrl": "admissions.ucmerced.edu",
+      "assistUrl": "https://assist.org/transfer/institution/134",
+      "selectivity": "less_selective",
+      "mascot": "Bobcats",
+      "color": "#002856"
+    },
+    {
+      "id": "ucr",
+      "name": "UC Riverside",
+      "shortName": "Riverside",
+      "location": "Riverside, CA",
+      "website": "www.ucr.edu",
+      "admissionsUrl": "admissions.ucr.edu",
+      "assistUrl": "https://assist.org/transfer/institution/114",
+      "selectivity": "selective",
+      "mascot": "Highlanders",
+      "color": "#003DA5"
+    },
+    {
+      "id": "ucsd",
+      "name": "UC San Diego",
+      "shortName": "San Diego",
+      "location": "La Jolla, CA",
+      "website": "www.ucsd.edu",
+      "admissionsUrl": "admissions.ucsd.edu",
+      "assistUrl": "https://assist.org/transfer/institution/115",
+      "selectivity": "highly_selective",
+      "mascot": "Tritons",
+      "color": "#182B49"
+    },
+    {
+      "id": "ucsb",
+      "name": "UC Santa Barbara",
+      "shortName": "Santa Barbara",
+      "location": "Santa Barbara, CA",
+      "website": "www.ucsb.edu",
+      "admissionsUrl": "admissions.sa.ucsb.edu",
+      "assistUrl": "https://assist.org/transfer/institution/116",
+      "selectivity": "selective",
+      "mascot": "Gauchos",
+      "color": "#003660"
+    },
+    {
+      "id": "ucsc",
+      "name": "UC Santa Cruz",
+      "shortName": "Santa Cruz",
+      "location": "Santa Cruz, CA",
+      "website": "www.ucsc.edu",
+      "admissionsUrl": "admissions.ucsc.edu",
+      "assistUrl": "https://assist.org/transfer/institution/117",
+      "selectivity": "selective",
+      "mascot": "Banana Slugs",
+      "color": "#003C6C"
+    }
+  ]
+}

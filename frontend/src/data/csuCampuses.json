@@ -1,0 +1,214 @@
+{
+  "lastUpdated": "2025-02-04",
+  "source": "California State University System",
+  "totalCampuses": 23,
+  "campuses": [
+    {
+      "id": "csub",
+      "name": "CSU Bakersfield",
+      "shortName": "Bakersfield",
+      "location": "Bakersfield, CA",
+      "website": "www.csub.edu",
+      "assistUrl": "https://assist.org/transfer/institution/49",
+      "mascot": "Roadrunners"
+    },
+    {
+      "id": "csuci",
+      "name": "CSU Channel Islands",
+      "shortName": "Channel Islands",
+      "location": "Camarillo, CA",
+      "website": "www.csuci.edu",
+      "assistUrl": "https://assist.org/transfer/institution/128",
+      "mascot": "Dolphins"
+    },
+    {
+      "id": "csuchico",
+      "name": "CSU Chico",
+      "shortName": "Chico",
+      "location": "Chico, CA",
+      "website": "www.csuchico.edu",
+      "assistUrl": "https://assist.org/transfer/institution/47",
+      "mascot": "Wildcats"
+    },
+    {
+      "id": "csudh",
+      "name": "CSU Dominguez Hills",
+      "shortName": "Dominguez Hills",
+      "location": "Carson, CA",
+      "website": "www.csudh.edu",
+      "assistUrl": "https://assist.org/transfer/institution/52",
+      "mascot": "Toros"
+    },
+    {
+      "id": "csueb",
+      "name": "CSU East Bay",
+      "shortName": "East Bay",
+      "location": "Hayward, CA",
+      "website": "www.csueastbay.edu",
+      "assistUrl": "https://assist.org/transfer/institution/48",
+      "mascot": "Pioneers"
+    },
+    {
+      "id": "csufresno",
+      "name": "CSU Fresno",
+      "shortName": "Fresno",
+      "location": "Fresno, CA",
+      "website": "www.csufresno.edu",
+      "assistUrl": "https://assist.org/transfer/institution/53",
+      "mascot": "Bulldogs"
+    },
+    {
+      "id": "csuf",
+      "name": "CSU Fullerton",
+      "shortName": "Fullerton",
+      "location": "Fullerton, CA",
+      "website": "www.fullerton.edu",
+      "assistUrl": "https://assist.org/transfer/institution/54",
+      "mascot": "Titans"
+    },
+    {
+      "id": "csuh",
+      "name": "CSU Humboldt",
+      "shortName": "Humboldt",
+      "location": "Arcata, CA",
+      "website": "www.humboldt.edu",
+      "assistUrl": "https://assist.org/transfer/institution/55",
+      "mascot": "Lumberjacks"
+    },
+    {
+      "id": "csulb",
+      "name": "CSU Long Beach",
+      "shortName": "Long Beach",
+      "location": "Long Beach, CA",
+      "website": "www.csulb.edu",
+      "assistUrl": "https://assist.org/transfer/institution/56",
+      "mascot": "Beach"
+    },
+    {
+      "id": "csula",
+      "name": "CSU Los Angeles",
+      "shortName": "Los Angeles",
+      "location": "Los Angeles, CA",
+      "website": "www.calstatela.edu",
+      "assistUrl": "https://assist.org/transfer/institution/57",
+      "mascot": "Golden Eagles"
+    },
+    {
+      "id": "csuma",
+      "name": "CSU Maritime Academy",
+      "shortName": "Maritime",
+      "location": "Vallejo, CA",
+      "website": "www.csum.edu",
+      "assistUrl": "https://assist.org/transfer/institution/50",
+      "mascot": "Keelhaulers"
+    },
+    {
+      "id": "csumb",
+      "name": "CSU Monterey Bay",
+      "shortName": "Monterey Bay",
+      "location": "Seaside, CA",
+      "website": "www.csumb.edu",
+      "assistUrl": "https://assist.org/transfer/institution/121",
+      "mascot": "Otters"
+    },
+    {
+      "id": "csun",
+      "name": "CSU Northridge",
+      "shortName": "Northridge",
+      "location": "Northridge, CA",
+      "website": "www.csun.edu",
+      "assistUrl": "https://assist.org/transfer/institution/58",
+      "mascot": "Matadors"
+    },
+    {
+      "id": "cpp",
+      "name": "Cal Poly Pomona",
+      "shortName": "Pomona",
+      "location": "Pomona, CA",
+      "website": "www.cpp.edu",
+      "assistUrl": "https://assist.org/transfer/institution/62",
+      "mascot": "Broncos"
+    },
+    {
+      "id": "csus",
+      "name": "CSU Sacramento",
+      "shortName": "Sacramento",
+      "location": "Sacramento, CA",
+      "website": "www.csus.edu",
+      "assistUrl": "https://assist.org/transfer/institution/63",
+      "mascot": "Hornets"
+    },
+    {
+      "id": "csusb",
+      "name": "CSU San Bernardino",
+      "shortName": "San Bernardino",
+      "location": "San Bernardino, CA",
+      "website": "www.csusb.edu",
+      "assistUrl": "https://assist.org/transfer/institution/64",
+      "mascot": "Coyotes"
+    },
+    {
+      "id": "sdsu",
+      "name": "San Diego State University",
+      "shortName": "San Diego",
+      "location": "San Diego, CA",
+      "website": "www.sdsu.edu",
+      "assistUrl": "https://assist.org/transfer/institution/65",
+      "mascot": "Aztecs"
+    },
+    {
+      "id": "sfsu",
+      "name": "San Francisco State University",
+      "shortName": "San Francisco",
+      "location": "San Francisco, CA",
+      "website": "www.sfsu.edu",
+      "assistUrl": "https://assist.org/transfer/institution/66",
+      "mascot": "Gators"
+    },
+    {
+      "id": "sjsu",
+      "name": "San Jose State University",
+      "shortName": "San Jose",
+      "location": "San Jose, CA",
+      "website": "www.sjsu.edu",
+      "assistUrl": "https://assist.org/transfer/institution/67",
+      "mascot": "Spartans"
+    },
+    {
+      "id": "cpslo",
+      "name": "Cal Poly San Luis Obispo",
+      "shortName": "San Luis Obispo",
+      "location": "San Luis Obispo, CA",
+      "website": "www.calpoly.edu",
+      "assistUrl": "https://assist.org/transfer/institution/61",
+      "mascot": "Mustangs"
+    },
+    {
+      "id": "csusm",
+      "name": "CSU San Marcos",
+      "shortName": "San Marcos",
+      "location": "San Marcos, CA",
+      "website": "www.csusm.edu",
+      "assistUrl": "https://assist.org/transfer/institution/119",
+      "mascot": "Cougars"
+    },
+    {
+      "id": "sonoma",
+      "name": "Sonoma State University",
+      "shortName": "Sonoma",
+      "location": "Rohnert Park, CA",
+      "website": "www.sonoma.edu",
+      "assistUrl": "https://assist.org/transfer/institution/68",
+      "mascot": "Seawolves"
+    },
+    {
+      "id": "csustan",
+      "name": "CSU Stanislaus",
+      "shortName": "Stanislaus",
+      "location": "Turlock, CA",
+      "website": "www.csustan.edu",
+      "assistUrl": "https://assist.org/transfer/institution/69",
+      "mascot": "Warriors"
+    }
+  ]
+}

@@ -21,10 +21,17 @@ import { addCourseToTranscript, removeCourseFromTranscript } from './fireData';
 const db = getFirestore();
 
 // ==================== OPENROUTER CONFIGURATION ====================
-const OPENROUTER_API_KEY = "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";
-const OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1";
-const AI_MODEL = "anthropic/claude-sonnet-4.5";
+const AI_PROVIDER = "groq";
 
+// Groq (FREE - 14,400 requests/day)
+const GROQ_API_KEY = "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"; // <-- Paste your key
+const GROQ_BASE_URL = "https://api.groq.com/openai/v1";
+const GROQ_MODEL = "llama-3.3-70b-versatile"; // Fast & capable
+
+// OpenRouter (PAID - Claude)
+//const OPENROUTER_API_KEY = "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";
+//const OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1";
+//const OPENROUTER_MODEL = "anthropic/claude-sonnet-4";
 
 // ==================== COLLEGE DATA ====================
 const UC_CAMPUSES = [
@@ -54,27 +61,39 @@ const MAJORS_BY_UC = {
   "default": ["Computer Science", "Biology", "Psychology", "Mathematics", "Physics", "Chemistry", "Economics"],
 };
 
-// ==================== AI CALL (CLAUDE OPUS 4.5) ====================
+// ==================== AI CALL (SUPPORTS GROQ & OPENROUTER) ====================
 const callAI = async (prompt, maxTokens = 2000) => {
-  console.log(`🤖 Calling Claude Sonnet 4...`);
+  const isGroq = AI_PROVIDER === "groq";
+  
+  const apiKey = isGroq ? GROQ_API_KEY : OPENROUTER_API_KEY;
+  const baseUrl = isGroq ? GROQ_BASE_URL : OPENROUTER_BASE_URL;
+  const model = isGroq ? GROQ_MODEL : OPENROUTER_MODEL;
+  
+  console.log(`🤖 Calling ${isGroq ? 'Groq (Llama)' : 'OpenRouter (Claude)'}...`);
   
   const controller = new AbortController();
-  const timeoutId = setTimeout(() => controller.abort(), 60000); // 60s timeout for Claude
+  const timeoutId = setTimeout(() => controller.abort(), 60000);
   
   try {
-    const response = await fetch(`${OPENROUTER_BASE_URL}/chat/completions`, {
+    const headers = {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${apiKey}`,
+    };
+    
+    // OpenRouter needs extra headers
+    if (!isGroq) {
+      headers['HTTP-Referer'] = window.location.origin || 'http://localhost:5173';
+      headers['X-Title'] = 'TransferMap';
+    }
+    
+    const response = await fetch(`${baseUrl}/chat/completions`, {
       method: 'POST',
-      headers: { 
-        'Content-Type': 'application/json', 
-        'Authorization': `Bearer ${OPENROUTER_API_KEY}`, 
-        'HTTP-Referer': window.location.origin || 'http://localhost:5173', 
-        'X-Title': 'TransferMap' 
-      },
-      body: JSON.stringify({ 
-        model: AI_MODEL, 
-        messages: [{ role: "user", content: prompt }], 
-        temperature: 0.1, 
-        max_tokens: maxTokens 
+      headers,
+      body: JSON.stringify({
+        model,
+        messages: [{ role: "user", content: prompt }],
+        temperature: 0,
+        max_tokens: maxTokens
       }),
       signal: controller.signal
     });
@@ -90,11 +109,11 @@ const callAI = async (prompt, maxTokens = 2000) => {
     const data = await response.json();
     
     if (data.error) {
-      console.error(`❌ Claude Error:`, data.error.message);
+      console.error(`❌ AI Error:`, data.error.message);
       throw new Error(data.error.message);
     }
     
-    console.log(`✅ Claude responded successfully`);
+    console.log(`✅ ${isGroq ? 'Groq' : 'Claude'} responded successfully`);
     return data.choices[0]?.message?.content || "";
     
   } catch (error) {
@@ -105,6 +124,7 @@ const callAI = async (prompt, maxTokens = 2000) => {
     throw error;
   }
 };
+
 
 // ==================== PDF TEXT EXTRACTION ====================
 const extractTextFromPDF = async (file, onProgress) => {

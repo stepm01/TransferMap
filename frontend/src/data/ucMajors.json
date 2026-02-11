@@ -1,0 +1,4689 @@
+{
+  "lastUpdated": "2025-02-09",
+  "source": "UC Admissions Official Major List (Fall 2026)",
+  "totalMajors": 628,
+  "majors": [
+    {
+      "name": "Academic Explorations Program",
+      "category": "Undeclared, Special Programs, and Other",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Academic Life Sciences Program",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Academic Options Program",
+      "category": "Undeclared, Special Programs, and Other",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Accounting",
+      "category": "Business and Management",
+      "campuses": [
+        "Merced"
+      ]
+    },
+    {
+      "name": "Actuarial Science",
+      "category": "Mathematics",
+      "campuses": [
+        "Riverside",
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Aerospace Engineering",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Berkeley",
+        "Irvine",
+        "Merced",
+        "San Diego",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Aerospace Engineering & Business Administration",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Aerospace Engineering with Specialization in Aerothermodynamics",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Aerospace Engineering with Specialization in Astrodynamics and Space Applications",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Aerospace Engineering with Specialization in Flight Dynamics and Controls",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Aerospace Science and Engineering",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "African American Studies",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "Berkeley",
+        "Irvine",
+        "Riverside",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "African American and African Studies",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "African and Middle Eastern Studies",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Agricultural and Environmental Education",
+      "category": "Agriculture, Natural Resources and Environmental Studies",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Agricultural and Environmental Technology",
+      "category": "Agriculture, Natural Resources and Environmental Studies",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Agroecology",
+      "category": "Agriculture, Natural Resources and Environmental Studies",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "American Indian Studies",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "American Literature and Culture",
+      "category": "Humanities",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "American Studies",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "Berkeley",
+        "Davis"
+      ]
+    },
+    {
+      "name": "Analytics",
+      "category": "Physical Sciences",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Ancient Greek and Roman Studies",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Ancient Near East and Egyptology",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Ancient Studies",
+      "category": "Humanities",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Animal Biology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Animal Science",
+      "category": "Agriculture, Natural Resources and Environmental Studies",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Animal Science and Management",
+      "category": "Agriculture, Natural Resources and Environmental Studies",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Anthropology",
+      "category": "Social Sciences",
+      "campuses": [
+        "Berkeley",
+        "Davis",
+        "Irvine",
+        "Merced",
+        "Riverside",
+        "Santa Barbara",
+        "Santa Cruz",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Anthropology - Archaeology",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Anthropology - Biological Anthropology",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Anthropology - Climate Change and Human Solutions",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Anthropology - Sociocultural  Anthropology",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Applied Chemistry",
+      "category": "Physical Sciences",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Applied Linguistics and Multilingualism",
+      "category": "Humanities",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Applied Mathematical Sciences",
+      "category": "Mathematics",
+      "campuses": [
+        "Merced"
+      ]
+    },
+    {
+      "name": "Applied Mathematics",
+      "category": "Mathematics",
+      "campuses": [
+        "Davis",
+        "Santa Barbara",
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Applied Physics",
+      "category": "Physical Sciences",
+      "campuses": [
+        "Davis",
+        "Irvine",
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Applied and Computational Mathematics",
+      "category": "Mathematics",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Aquatic Biology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Arabic",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Architectural Studies",
+      "category": "Architectural and Environmental Design and Planning",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Architecture",
+      "category": "Architectural and Environmental Design and Planning",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Art",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Irvine",
+        "Santa Barbara",
+        "Santa Cruz",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Art (History of)",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Art (Practice of)",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Art (Studio)",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Art History",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Davis",
+        "Irvine",
+        "Riverside",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Art History/Administrative Studies",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Art History/Religious Studies",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Art Studio",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Art and Design: Games and Playable Media",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Arts/Undeclared",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Asian American Studies",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "Davis",
+        "Irvine",
+        "Riverside",
+        "Santa Barbara",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Asian American and Asian Diaspora Studies",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Asian Humanities",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Asian Languages and Linguistics",
+      "category": "Humanities",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Asian Religions",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Asian Studies",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Riverside",
+        "Santa Barbara",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Astronomy and Astrophysics",
+      "category": "Physical Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Astrophysics",
+      "category": "Physical Sciences",
+      "campuses": [
+        "Berkeley",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Atmospheric Science",
+      "category": "Physical Sciences",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Atmospheric and Oceanic Sciences",
+      "category": "Physical Sciences",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Atmospheric and Oceanic Sciences/Mathematics",
+      "category": "Mathematics",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Economics",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Biochemical Engineering",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Biochemical and Biomolecular Engineering",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Merced"
+      ]
+    },
+    {
+      "name": "Biochemistry",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Merced",
+        "Riverside",
+        "San Diego",
+        "Santa Barbara",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Biochemistry and Molecular Biology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Davis",
+        "Irvine",
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Bioengineering",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Berkeley",
+        "Merced",
+        "Riverside",
+        "San Diego",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Bioengineering & Business Administration",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Bioengineering B.S. + M.S.",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Bioengineering: BioSystems",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Bioengineering: Bioinformatics",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Bioengineering: Biotechnology",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Biological Anthropology",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Biological Sciences",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Davis",
+        "Irvine",
+        "Merced",
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Biological Systems Engineering",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Biology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Riverside",
+        "Santa Cruz",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Biology with Specialization in Bioinformatics",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Biology/Education",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Biomedical Engineering",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Davis",
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Biomedical Engineering: Premedical",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Biomolecular Engineering and Bioinformatics",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Biophysics",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Biopsychology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Biotechnology",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Davis",
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Black Diaspora and African American Studies",
+      "category": "Humanities",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Black Studies",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Black Study",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Business",
+      "category": "Business and Management",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Business Administration",
+      "category": "Business and Management",
+      "campuses": [
+        "Irvine",
+        "Merced",
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Business Analytics",
+      "category": "Business and Management",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Business Economics",
+      "category": "Business and Management",
+      "campuses": [
+        "Irvine",
+        "Riverside",
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Business Economics (Pre)",
+      "category": "Social Sciences",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Business Information Management",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Business Management Economics",
+      "category": "Business and Management",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Business Psychology",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "CSE: Computer Engineering",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Cell Biology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Cell, Molecular, and Developmental Biology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Celtic Studies",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Central and East European Languages and Cultures",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Chemical Biology",
+      "category": "Physical Sciences",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Chemical Engineering",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Berkeley",
+        "Davis",
+        "Irvine",
+        "Merced",
+        "Riverside",
+        "San Diego",
+        "Santa Barbara",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Chemical Engineering B.S.+M.S.",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Chemical Physics",
+      "category": "Physical Sciences",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Chemistry",
+      "category": "Physical Sciences",
+      "campuses": [
+        "Berkeley",
+        "Davis",
+        "Irvine",
+        "Merced",
+        "Riverside",
+        "San Diego",
+        "Santa Barbara",
+        "Santa Cruz",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Chemistry/Materials Science",
+      "category": "Physical Sciences",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Chicana and Chicano Studies",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "Santa Barbara",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Chicana/Chicano Studies",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Chicano Studies",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "Berkeley",
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Chicano/Latino Studies",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Chicanx Latinx Studies",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Chicanx and Latinx Studies",
+      "category": "Humanities",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Chinese",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Davis",
+        "Santa Barbara",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Chinese Language and Culture",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Chinese Studies",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Irvine",
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Cinema and Digital Media",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Cinematic Arts",
+      "category": "Humanities",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Civil Engineering",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Berkeley",
+        "Davis",
+        "Irvine",
+        "Merced",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Civil Engineering & Business Administration",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Classical Civilization",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Davis",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Classical Studies",
+      "category": "Humanities",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Classics",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Irvine",
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Climate Science",
+      "category": "Physical Sciences",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Clinical Nutrition",
+      "category": "Food, Nutrition and Consumer Sciences",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Cognitive Science",
+      "category": "Social Sciences",
+      "campuses": [
+        "Berkeley",
+        "Davis",
+        "Merced",
+        "San Diego",
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Cognitive Science (Pre)",
+      "category": "Social Sciences",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Cognitive Science: Cognitive & Behavioral Neuroscience (joint major)",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Cognitive Sciences",
+      "category": "Social Sciences",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Communication",
+      "category": "Communication",
+      "campuses": [
+        "Davis",
+        "San Diego",
+        "Santa Barbara",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Communication and Media",
+      "category": "Communication",
+      "campuses": [
+        "Merced"
+      ]
+    },
+    {
+      "name": "Community Studies",
+      "category": "Social Sciences",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Community and Regional Development",
+      "category": "Social Sciences",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Comparative Literature",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Berkeley",
+        "Davis",
+        "Irvine",
+        "Santa Barbara",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Computational Biology (Pre)",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Computer Engineering",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Davis",
+        "Irvine",
+        "Riverside",
+        "Santa Barbara",
+        "Santa Cruz",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Computer Engineering B.S. + M.S.",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Computer Science",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Berkeley",
+        "Davis",
+        "Irvine",
+        "Riverside",
+        "San Diego",
+        "Santa Barbara",
+        "Santa Cruz",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Computer Science B.S. + M.S.",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Computer Science and Engineering",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Davis",
+        "Irvine",
+        "Merced",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Computer Science and Engineering (see Interdisciplinary Studies)",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Computer Science with Business Applications",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Computer Science with Specialization in Bioinformatics",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Computer Science: Computer Game Design",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Conservation and Resource Studies",
+      "category": "Agriculture, Natural Resources and Environmental Studies",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Creative Studies: Art",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Creative Studies: Biology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Creative Studies: Chemistry/Biochemistry",
+      "category": "Physical Sciences",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Creative Studies: Computing",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Creative Studies: Marine Science",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Creative Studies: Mathematics",
+      "category": "Mathematics",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Creative Studies: Music Composition",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Creative Studies: Physics",
+      "category": "Physical Sciences",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Creative Studies: Writing and Literature",
+      "category": "Humanities",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Creative Technologies",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Creative Writing",
+      "category": "Humanities",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Criminology, Law and Society",
+      "category": "Social Sciences",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Critical Gender Studies",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Critical Race and Ethnic Studies",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "Merced",
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Dance",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Irvine",
+        "Riverside",
+        "San Diego",
+        "Santa Barbara",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Dance and Performance Studies",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Berkeley",
+        "Davis",
+        "Irvine",
+        "Riverside",
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Data Science and Analytics",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Merced"
+      ]
+    },
+    {
+      "name": "Data Science and Computing",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Merced"
+      ]
+    },
+    {
+      "name": "Data Theory (Pre)",
+      "category": "Mathematics",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Design",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Design|Media Arts",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Developmental and Cell Biology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Disability Studies (Pre)",
+      "category": "Humanities",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Drama",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Dutch Studies",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "ECE: Computer Engineering",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Earth  Science",
+      "category": "Physical Sciences",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Earth Science",
+      "category": "Physical Sciences",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Earth Sciences",
+      "category": "Physical Sciences",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Earth Sciences/Anthropology",
+      "category": "Physical Sciences",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Earth and Environmental Science",
+      "category": "Physical Sciences",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Earth and Planetary Science",
+      "category": "Physical Sciences",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Earth and Planetary Sciences",
+      "category": "Physical Sciences",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "East Asian Cultures",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "East Asian Religion, Thought, and Culture",
+      "category": "Humanities",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "East Asian Studies",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Ecological Management and Restoration",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Ecology and Evolution",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Santa Barbara",
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Ecology and Evolutionary Biology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Ecology, Behavior and Evolution",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Ecology, Behavior, and Evolution",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Ecology, Evolution, and Conservation Biology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Merced"
+      ]
+    },
+    {
+      "name": "Economics",
+      "category": "Social Sciences",
+      "campuses": [
+        "Berkeley",
+        "Davis",
+        "Irvine",
+        "Merced",
+        "Riverside",
+        "San Diego",
+        "Santa Barbara",
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Economics (Pre)",
+      "category": "Social Sciences",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Economics and Accounting",
+      "category": "Social Sciences",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Economics and Mathematics (joint major)",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Economics/Administrative Studies",
+      "category": "Social Sciences",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Economics/Mathematics",
+      "category": "Social Sciences",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Ecosystems Management and Forestry",
+      "category": "Agriculture, Natural Resources and Environmental Studies",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Education Sciences",
+      "category": "Social Sciences",
+      "campuses": [
+        "Irvine",
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Education and Social Transformation (Pre)",
+      "category": "Social Sciences",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Education, Democracy, and Justice",
+      "category": "Humanities",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Education, Society, and Human Development",
+      "category": "Social Sciences",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Educational Sciences",
+      "category": "Social Sciences",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Electrical Engineering",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Davis",
+        "Irvine",
+        "Merced",
+        "Riverside",
+        "San Diego",
+        "Santa Barbara",
+        "Santa Cruz",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Electrical Engineering B.S. + M.S.",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Electrical Engineering and Computer Sciences",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Electrical Engineering and Computer Sciences & Business Administration",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Electrical Engineering and Society",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Electrical and Computer Engineering",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Engineering",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Engineering Geology",
+      "category": "Physical Sciences",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Engineering Physics",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Engineering Science Programs",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Engineering Undeclared",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Engineering Undeclared & Business Administration",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Engineering/Undeclared",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "English",
+      "category": "Humanities",
+      "campuses": [
+        "Berkeley",
+        "Davis",
+        "Irvine",
+        "Riverside",
+        "Santa Barbara",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Entomology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Davis",
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Entomology BS+MS",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Environmental Anthropology",
+      "category": "Agriculture, Natural Resources and Environmental Studies",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Environmental Chemistry",
+      "category": "Physical Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Environmental Economics and Policy",
+      "category": "Social Sciences",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Environmental Engineering",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Berkeley",
+        "Davis",
+        "Irvine",
+        "Merced",
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Environmental Engineering B.S. + M.S.",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Environmental Horticulture and Urban Forestry",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Environmental Humanities",
+      "category": "Humanities",
+      "campuses": [
+        "Merced"
+      ]
+    },
+    {
+      "name": "Environmental Policy Analysis and Planning",
+      "category": "Agriculture, Natural Resources and Environmental Studies",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Environmental Science",
+      "category": "Agriculture, Natural Resources and Environmental Studies",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Environmental Science and Management",
+      "category": "Agriculture, Natural Resources and Environmental Studies",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Environmental Science and Policy",
+      "category": "Physical Sciences",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Environmental Sciences",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Berkeley",
+        "Riverside",
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Environmental Studies",
+      "category": "Agriculture, Natural Resources and Environmental Studies",
+      "campuses": [
+        "Riverside",
+        "Santa Barbara",
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Environmental Studies/Biology",
+      "category": "Agriculture, Natural Resources and Environmental Studies",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Environmental Studies/Economics",
+      "category": "Agriculture, Natural Resources and Environmental Studies",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Environmental Systems - Earth Sciences",
+      "category": "Physical Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Environmental Systems - Ecology, Behavior and Evolution",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Environmental Systems - Environmental Chemistry",
+      "category": "Physical Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Environmental Systems - Environmental Policy",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Environmental Systems Science",
+      "category": "Physical Sciences",
+      "campuses": [
+        "Merced"
+      ]
+    },
+    {
+      "name": "Environmental Toxicology",
+      "category": "Agriculture, Natural Resources and Environmental Studies",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Environmental and Earth System Science",
+      "category": "Physical Sciences",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Ethnic Studies",
+      "category": "Social Sciences",
+      "campuses": [
+        "Berkeley",
+        "Riverside",
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Ethnomusicology",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "European Languages and Transcultural Studies",
+      "category": "Humanities",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "European Languages and Transcultural Studies with French and Francophone",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "European Languages and Transcultural Studies with German",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "European Languages and Transcultural Studies with Italian",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "European Languages and Transcultural Studies with Scandinavian",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "European Studies",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "Irvine",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Evolution, Ecology and Biodiversity",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Exercise Sciences",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Exploratory/Undeclared",
+      "category": "Undeclared, Special Programs, and Other",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Feminist Studies",
+      "category": "Social Sciences",
+      "campuses": [
+        "Santa Barbara",
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Film and Digital Media",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Film and Media",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Film and Media Studies",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Irvine",
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Film and Television",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Financial Mathematics and Statistics",
+      "category": "Mathematics",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Food Science",
+      "category": "Food, Nutrition and Consumer Sciences",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "French",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Berkeley",
+        "Davis",
+        "Irvine",
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Game Design and Interactive Media",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Gender Studies",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Gender and Sexuality Studies",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "Irvine",
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Gender and Women's Studies",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Gender, Sexuality, and Women's Studies",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "General Biology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Genetics",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Genetics and Genomics",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Genetics and Plant Biology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Geography",
+      "category": "Physical Sciences",
+      "campuses": [
+        "Berkeley",
+        "Santa Barbara",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Geography, Physical",
+      "category": "Physical Sciences",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Geography/Environmental Studies",
+      "category": "Social Sciences",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Geology",
+      "category": "Physical Sciences",
+      "campuses": [
+        "Davis",
+        "Riverside",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Geophysics",
+      "category": "Physical Sciences",
+      "campuses": [
+        "Riverside",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Geosciences",
+      "category": "Physical Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "German",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Berkeley",
+        "Davis",
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "German Studies",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Irvine",
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Global Arts Studies Program",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Merced"
+      ]
+    },
+    {
+      "name": "Global Cultures",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Global Disease Biology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Global Economics",
+      "category": "Social Sciences",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Global Health",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Global Jazz Studies",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Global Management Program",
+      "category": "Business and Management",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Global South Studies",
+      "category": "Humanities",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Global Studies",
+      "category": "Social Sciences",
+      "campuses": [
+        "Berkeley",
+        "Riverside",
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Global Studies (Pre)",
+      "category": "Social Sciences",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Global and Community Health",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Riverside",
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Greek",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Berkeley",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Greek and Latin",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Berkeley",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "History",
+      "category": "Social Sciences",
+      "campuses": [
+        "Berkeley",
+        "Davis",
+        "Irvine",
+        "Merced",
+        "Riverside",
+        "San Diego",
+        "Santa Barbara",
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "History (Pre)",
+      "category": "Social Sciences",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "History of Art and Architecture",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "History of Art and Visual Culture",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "History of Policy, Law, and Governance",
+      "category": "Humanities",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "History/Administrative Studies",
+      "category": "Social Sciences",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Human Biology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Davis",
+        "Irvine",
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Human Biology and Society (Pre)",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Human Development",
+      "category": "Social Sciences",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Human Developmental Sciences",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Human Developmental Sciences with Specialization in Equity and Diversity",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Human Developmental Sciences with Specialization in Healthy Aging",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Humanities/Undeclared",
+      "category": "Humanities",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Hydrologic Sciences and Policy",
+      "category": "Agriculture, Natural Resources and Environmental Studies",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Hydrology",
+      "category": "Physical Sciences",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Industrial Engineering and Operations Research",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Industrial Engineering and Operations Research & Business Administration",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Informatics",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Information and Computer Sciences/Undeclared",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Integrative Biology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Intending a major in Arts & Humanities division",
+      "category": "Humanities",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Intending a major in Biological Sciences division",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Intending a major in Interdisciplinary Studies",
+      "category": "Undeclared, Special Programs, and Other",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Intending a major in Mathematics and Physical Sciences division",
+      "category": "Mathematics",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Intending a major in Social Sciences division",
+      "category": "Social Sciences",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Interdisciplinary Studies",
+      "category": "Undeclared, Special Programs, and Other",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "International Agricultural Development",
+      "category": "Agriculture, Natural Resources and Environmental Studies",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "International Development Studies (Pre)",
+      "category": "Social Sciences",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "International Relations",
+      "category": "Social Sciences",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "International Studies",
+      "category": "Social Sciences",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "International Studies - Anthropology",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "International Studies - Economics",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "International Studies - History",
+      "category": "Humanities",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "International Studies - International Business",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "International Studies - Linguistics",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "International Studies - Literature",
+      "category": "Humanities",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "International Studies - Philosophy",
+      "category": "Humanities",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "International Studies - Political Science",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "International Studies - Sociology",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Iranian Studies",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Italian",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Italian Studies",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Berkeley",
+        "San Diego",
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Jacobs School of Engineering",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Japanese",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Davis",
+        "Santa Barbara",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Japanese Language and Culture",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Japanese Language and Literature",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Japanese Studies",
+      "category": "Humanities",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Jewish Studies",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "San Diego",
+        "Santa Cruz",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Korean",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Korean Language and Culture",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Korean Literature and Culture",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Labor Studies",
+      "category": "Social Sciences",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Landscape Architecture",
+      "category": "Architectural and Environmental Design and Planning",
+      "campuses": [
+        "Berkeley",
+        "Davis"
+      ]
+    },
+    {
+      "name": "Landscape Architecture, Pre-",
+      "category": "Architectural and Environmental Design and Planning",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Language Science",
+      "category": "Social Sciences",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Language Studies",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Language, Culture, and Society",
+      "category": "Humanities",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Languages and Literatures/Chinese",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Languages and Literatures/Classical Studies",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Languages and Literatures/Comparative Ancient Civilizations",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Languages and Literatures/Comparative Literature",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Languages and Literatures/French",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Languages and Literatures/Germanic Studies",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Languages and Literatures/Japanese",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Languages and Literatures/Languages",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Languages and Literatures/Russian",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Latin",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Berkeley",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Latin American Studies",
+      "category": "Social Sciences",
+      "campuses": [
+        "Riverside",
+        "San Diego",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Latin American Studies with a Concentration in Mexico",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Latin American Studies with a Concentration in Migration and Border Studies",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Latin American and Iberian Studies",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Latin American and Latino Studies",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Latin American and Latino Studies/Education, Democracy, and Justice",
+      "category": "Social Sciences",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Latin American and Latino Studies/Politics",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Latin American and Latino Studies/Sociology",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Legal Studies",
+      "category": "Social Sciences",
+      "campuses": [
+        "Berkeley",
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Liberal Studies",
+      "category": "Humanities",
+      "campuses": [
+        "Merced",
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Limited (CHASS)",
+      "category": "Undeclared, Special Programs, and Other",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Limited Status",
+      "category": "Undeclared, Special Programs, and Other",
+      "campuses": [
+        "Davis",
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Limited-CNAS",
+      "category": "Undeclared, Special Programs, and Other",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Limited-Engineering",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Linguistics",
+      "category": "Social Sciences",
+      "campuses": [
+        "Berkeley",
+        "Davis",
+        "Riverside",
+        "San Diego",
+        "Santa Barbara",
+        "Santa Cruz",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Linguistics - Specialization in Cognition and Language",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Linguistics - Specialization in Language and Society",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Linguistics and Anthropology",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Linguistics and Asian Languages and Cultures",
+      "category": "Humanities",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Linguistics and Computer Science",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Linguistics and English",
+      "category": "Humanities",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Linguistics and Philosophy",
+      "category": "Humanities",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Linguistics and Psychology",
+      "category": "Humanities",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Linguistics and Spanish",
+      "category": "Humanities",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Linguistics with Specialization in Speech and Language Sciences",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Linguistics, Applied",
+      "category": "Social Sciences",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Linguistics: Language Studies - Specialization in Individual Language",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Literary Arts",
+      "category": "Humanities",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Literary Journalism",
+      "category": "Communication",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Literature",
+      "category": "Humanities",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Literature: Writing",
+      "category": "Humanities",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Literatures in English",
+      "category": "Humanities",
+      "campuses": [
+        "Merced",
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Literatures in Spanish",
+      "category": "Humanities",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Management and Business Economics",
+      "category": "Business and Management",
+      "campuses": [
+        "Merced"
+      ]
+    },
+    {
+      "name": "Management of Innovation, Sustainability, and Technology",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Merced"
+      ]
+    },
+    {
+      "name": "Managerial Economics",
+      "category": "Business and Management",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Marine Biology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "San Diego",
+        "Santa Cruz",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Marine and Coastal Science",
+      "category": "Agriculture, Natural Resources and Environmental Studies",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Materials Engineering",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Materials Science and Engineering",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Berkeley",
+        "Davis",
+        "Irvine",
+        "Merced",
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Materials Science and Engineering & Business Administration",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Mathematical Analytics and Operations Research",
+      "category": "Mathematics",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Mathematical Biology",
+      "category": "Mathematics",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Mathematical and Scientific Computation",
+      "category": "Mathematics",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "category": "Mathematics",
+      "campuses": [
+        "Berkeley",
+        "Davis",
+        "Irvine",
+        "Riverside",
+        "San Diego",
+        "Santa Barbara",
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Mathematics (Pre)",
+      "category": "Mathematics",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Mathematics - Applied Science",
+      "category": "Mathematics",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Mathematics - Computer Science",
+      "category": "Mathematics",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Mathematics - Probability and Statistics",
+      "category": "Mathematics",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Mathematics - Secondary Education",
+      "category": "Mathematics",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Mathematics Education",
+      "category": "Mathematics",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Mathematics Theory & Computation",
+      "category": "Mathematics",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Mathematics and Economics (joint major)",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Mathematics for Secondary School Teachers",
+      "category": "Mathematics",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Mathematics for Teaching (Pre)",
+      "category": "Mathematics",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Mathematics of Computation (Pre)",
+      "category": "Mathematics",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Mathematics, Applied",
+      "category": "Mathematics",
+      "campuses": [
+        "Berkeley",
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Mathematics, Applied (Pre)",
+      "category": "Mathematics",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Mathematics, Financial Actuarial (Pre)",
+      "category": "Mathematics",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Mathematics/Applied Science (Pre)",
+      "category": "Mathematics",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Mathematics/Economics (Pre)",
+      "category": "Mathematics",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Mechanical Engineering",
+      "category": "Agriculture, Natural Resources and Environmental Studies",
+      "campuses": [
+        "Berkeley",
+        "Davis",
+        "Irvine",
+        "Merced",
+        "Riverside",
+        "San Diego",
+        "Santa Barbara",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Mechanical Engineering & Business Administration",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Mechanical Engineering B.S. + M.S.",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Mechanical Engineering with a Specialization in Controls and Robotics",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Mechanical Engineering with a Specialization in Fluid Mechanics and Thermal Systems",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Mechanical Engineering with a Specialization in Materials Science and Engineering",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Mechanical Engineering with a Specialization in Mechanics of Materials",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Mechanical Engineering with a Specialization in Renewable Energy and Environmental Flows",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Media Industries and Communication",
+      "category": "Communication",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Media Studies",
+      "category": "Social Sciences",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Media and Cultural Studies",
+      "category": "Humanities",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Medicinal Chemistry and Drug Design",
+      "category": "Physical Sciences",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Medieval Studies",
+      "category": "Humanities",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Medieval and Early Modern Studies",
+      "category": "Humanities",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Microbial Biology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Microbiology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Riverside",
+        "San Diego",
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Microbiology and Immunology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Microbiology, Immunology, and Molecular Genetics",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Middle East Studies",
+      "category": "Humanities",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Middle East and Islamic Studies",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Middle East/South Asia Studies",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Middle Eastern Languages and Cultures",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Middle Eastern Studies",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Molecular & Cellular Biology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Molecular Environmental Biology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Molecular Synthesis",
+      "category": "Physical Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Molecular and Cell Biology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Berkeley",
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Molecular and Cellular Biology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Molecular and Medical Microbiology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Molecular, Cell, and Developmental Biology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Santa Cruz",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Music",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Berkeley",
+        "Davis",
+        "Irvine",
+        "Riverside",
+        "San Diego",
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Music (Performance Major)",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Music - Interdisciplinary Computing and the Arts",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Music Composition",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Music Education",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Music Humanities",
+      "category": "Humanities",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Music Industry",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Music Performance",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Music Studies",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Music and Culture",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Musicology",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "NanoEngineering",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Native American Studies",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "Berkeley",
+        "Davis",
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Network and Digital Technology",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Neurobiology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Irvine",
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Neurobiology, Physiology and Behavior",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Neuroscience",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Berkeley",
+        "Merced",
+        "Santa Cruz",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Neuroscience (CHASS)",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Neuroscience (CNAS)",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Nordic Studies",
+      "category": "Humanities",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Nuclear Engineering",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Nursing - Prelicensure",
+      "category": "Health Professions",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Nursing Science",
+      "category": "Health Professions",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Nutrition & Metabolic Biology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Nutrition Science",
+      "category": "Food, Nutrition and Consumer Sciences",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Oceanic and Atmospheric Sciences",
+      "category": "Physical Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Pharmaceutical Sciences",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Pharmacological Chemistry",
+      "category": "Physical Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Philosophy",
+      "category": "Social Sciences",
+      "campuses": [
+        "Berkeley",
+        "Davis",
+        "Irvine",
+        "Merced",
+        "Riverside",
+        "San Diego",
+        "Santa Barbara",
+        "Santa Cruz",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Physical Sciences/Undeclared",
+      "category": "Physical Sciences",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Physics",
+      "category": "Physical Sciences",
+      "campuses": [
+        "Berkeley",
+        "Davis",
+        "Irvine",
+        "Merced",
+        "Riverside",
+        "San Diego",
+        "Santa Barbara",
+        "Santa Cruz",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Physics (Astrophysics)",
+      "category": "Physical Sciences",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Physics, Applied",
+      "category": "Physical Sciences",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Physiological Science",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Physiology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Plant Biology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Davis",
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Plant Sciences",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Davis",
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Political Economy",
+      "category": "Social Sciences",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Political Science",
+      "category": "Social Sciences",
+      "campuses": [
+        "Berkeley",
+        "Davis",
+        "Irvine",
+        "Merced",
+        "Riverside",
+        "San Diego",
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Political Science (Pre)",
+      "category": "Social Sciences",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Political Science - American Politics",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Political Science - Comparative Politics",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Political Science - Data Analytics",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Political Science - International Relations",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Political Science - Political Theory",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Political Science - Public Law",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Political Science - Public Policy",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Political Science - Public Service",
+      "category": "Social Sciences",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Political Science - Race, Ethnicity, and Politics",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Political Science/Administrative Studies",
+      "category": "Social Sciences",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Political Science/International Affairs",
+      "category": "Social Sciences",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Political Science/Public Service",
+      "category": "Social Sciences",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Politics",
+      "category": "Social Sciences",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Portuguese",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Portuguese and Brazilian Studies",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Pre-Business",
+      "category": "Business and Management",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Psychobiology (Pre)",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Psychological and Brain Sciences",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Psychology",
+      "category": "Social Sciences",
+      "campuses": [
+        "Berkeley",
+        "Davis",
+        "Irvine",
+        "Merced",
+        "Riverside",
+        "San Diego",
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Psychology (Pre)",
+      "category": "Social Sciences",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Psychology with Specialization in Clinical Psychology",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Psychology with Specialization in Cognitive Psychology",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Psychology with Specialization in Developmental Psychology",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Psychology with Specialization in Human Health",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Psychology with Specialization in Sensation and Perception",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Psychology with Specialization in Social Psychology",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Psychology: Cognitive & Behavioral Neuroscience (joint major)",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Public Affairs (Pre)",
+      "category": "Social Sciences",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Public Health",
+      "category": "Health Professions",
+      "campuses": [
+        "Berkeley",
+        "Merced",
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Public Health (Pre)",
+      "category": "Social Sciences",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Public Health Policy",
+      "category": "Health Professions",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Public Health Sciences",
+      "category": "Health Professions",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Public Health with Concentration in Biostatistics",
+      "category": "Health Professions",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Public Health with Concentration in Climate and Environmental Sciences",
+      "category": "Health Professions",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Public Health with Concentration in Community Health Sciences",
+      "category": "Health Professions",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Public Health with Concentration in Epidemiology",
+      "category": "Health Professions",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Public Health with Concentration in Health Policy and Management Sciences",
+      "category": "Health Professions",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Public Health with Concentration in Medicine Sciences",
+      "category": "Health Professions",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Public Policy",
+      "category": "Social Sciences",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Quantitative Economics",
+      "category": "Business and Management",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Real Estate and Development",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Religion, Study of",
+      "category": "Humanities",
+      "campuses": [
+        "San Diego",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Religious Studies",
+      "category": "Humanities",
+      "campuses": [
+        "Davis",
+        "Irvine",
+        "Riverside",
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Religious Studies/Admin Studies",
+      "category": "Humanities",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Religious Studies/Art History",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Rhetoric",
+      "category": "Humanities",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Robinson Life Science, Business, and Entrepreneurship Program",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Robotics",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Robotics Engineering",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Russian",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Russian Language and Literature",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Russian Studies",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Russian and East European Studies",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Russian, East European & Eurasian Studies",
+      "category": "Humanities",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Scandinavian",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Science Education",
+      "category": "Physical Sciences",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Science and Technology Studies",
+      "category": "Social Sciences",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Science, Technology, and Ethics",
+      "category": "Social Sciences",
+      "campuses": [
+        "Merced"
+      ]
+    },
+    {
+      "name": "Slavic",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Social Ecology",
+      "category": "Social Sciences",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Social Ecology/Undeclared",
+      "category": "Social Sciences",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Social Policy and Public Service",
+      "category": "Social Sciences",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Social Welfare",
+      "category": "Social Sciences",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Society and Environment",
+      "category": "Social Sciences",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Sociology",
+      "category": "Social Sciences",
+      "campuses": [
+        "Berkeley",
+        "Davis",
+        "Irvine",
+        "Merced",
+        "Riverside",
+        "San Diego",
+        "Santa Barbara",
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Sociology (Pre)",
+      "category": "Social Sciences",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Sociology - American Studies",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Sociology - Culture and Communication",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Sociology - Economy and Society",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Sociology - International Studies",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Sociology - Law and Society",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Sociology - Organizational Studies",
+      "category": "Business and Management",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Sociology - Science and Medicine",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Sociology - Social Inequity",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Sociology/Administrative Studies",
+      "category": "Social Sciences",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Software Engineering",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "South and Southeast Asian Studies",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Southeast Asian Studies",
+      "category": "Humanities",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Spanish",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Davis",
+        "Irvine",
+        "Merced",
+        "Riverside",
+        "Santa Barbara",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Spanish Studies",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Spanish and Community and Culture",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Spanish and Linguistics",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Spanish and Portuguese",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Berkeley",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Speculative Design",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Spieker Undergraduate Business Program",
+      "category": "Business and Management",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Statistics",
+      "category": "Mathematics",
+      "campuses": [
+        "Berkeley",
+        "Davis",
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Statistics BS + MS",
+      "category": "Mathematics",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Statistics and Data Science",
+      "category": "Mathematics",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Statistics and Data Science (Pre)",
+      "category": "Physical Sciences",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Structural Engineering",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Structural Engineering with a Specialization in Aerospace Structures",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Structural Engineering with a Specialization in Civil Structures",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Structural Engineering with a Specialization in Geotechnical Engineering",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Structural Engineering with a Specialization in Structural Health Monitoring/Non-Destructive Eval",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Sustainability Studies",
+      "category": "Ethnic and Area Studies",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Sustainable Agriculture and Food Systems",
+      "category": "Agriculture, Natural Resources and Environmental Studies",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Sustainable Environmental Design",
+      "category": "Architectural and Environmental Design and Planning",
+      "campuses": [
+        "Berkeley",
+        "Davis"
+      ]
+    },
+    {
+      "name": "Systems and Synthetic Biology",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Technology and Information Management",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Theater",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Santa Barbara",
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Theater Arts",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Theater and Performance Studies",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Theatre",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Theatre and Dance",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Theatre, Film and Digital Production",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Undecided/Undeclared",
+      "category": "Undeclared, Special Programs, and Other",
+      "campuses": [
+        "Merced"
+      ]
+    },
+    {
+      "name": "Undeclared",
+      "category": "Undeclared, Special Programs, and Other",
+      "campuses": [
+        "Davis",
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Undeclared (CHASS)",
+      "category": "Undeclared, Special Programs, and Other",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Undeclared (Letters and Science)",
+      "category": "Undeclared, Special Programs, and Other",
+      "campuses": [
+        "Santa Barbara"
+      ]
+    },
+    {
+      "name": "Undeclared - Business and Economics",
+      "category": "Business and Management",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Undeclared - Education",
+      "category": "Social Sciences",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Undeclared - Engineering and Applied Science",
+      "category": "Engineering and Computer Science",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Undeclared - Environmental Policy, Science, and Sustainability",
+      "category": "Agriculture, Natural Resources and Environmental Studies",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Undeclared - Human Psychology, Culture, and Society",
+      "category": "Social Sciences",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Undeclared - Humanities",
+      "category": "Humanities",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Undeclared - Humanities/Arts",
+      "category": "Undeclared, Special Programs, and Other",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Undeclared - Languages, Literature, and Communications",
+      "category": "Foreign Language and Literature",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Undeclared - Liberal Arts and Area Studies",
+      "category": "Undeclared, Special Programs, and Other",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Undeclared - Life Science",
+      "category": "Biological and Life Sciences",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Undeclared - Life Sciences (CNAS)",
+      "category": "Undeclared, Special Programs, and Other",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Undeclared - Life and Health Sciences",
+      "category": "Health Professions",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Undeclared - Mathematic Sciences (CNAS)",
+      "category": "Undeclared, Special Programs, and Other",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Undeclared - Physical Science",
+      "category": "Physical Sciences",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Undeclared - Physical Sciences",
+      "category": "Undeclared, Special Programs, and Other",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Undeclared - Physical Sciences (CNAS)",
+      "category": "Undeclared, Special Programs, and Other",
+      "campuses": [
+        "Riverside"
+      ]
+    },
+    {
+      "name": "Undeclared - Physical Sciences and Math",
+      "category": "Physical Sciences",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Undeclared - School of Engineering",
+      "category": "Undeclared, Special Programs, and Other",
+      "campuses": [
+        "Merced"
+      ]
+    },
+    {
+      "name": "Undeclared - School of Natural Sciences",
+      "category": "Undeclared, Special Programs, and Other",
+      "campuses": [
+        "Merced"
+      ]
+    },
+    {
+      "name": "Undeclared - School of Social Sciences, Humanities and Arts",
+      "category": "Undeclared, Special Programs, and Other",
+      "campuses": [
+        "Merced"
+      ]
+    },
+    {
+      "name": "Undeclared - Social Science",
+      "category": "Social Sciences",
+      "campuses": [
+        "UCLA"
+      ]
+    },
+    {
+      "name": "Undeclared - Social Sciences",
+      "category": "Undeclared, Special Programs, and Other",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Undeclared - Visual and Performing Arts and Media",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Undeclared in the Rausser College of Natural Resources",
+      "category": "Agriculture, Natural Resources and Environmental Studies",
+      "campuses": [
+        "Berkeley"
+      ]
+    },
+    {
+      "name": "Undeclared/Exploratory",
+      "category": "Undeclared, Special Programs, and Other",
+      "campuses": [
+        "Davis"
+      ]
+    },
+    {
+      "name": "Undergraduate/Undeclared",
+      "category": "Undeclared, Special Programs, and Other",
+      "campuses": [
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Urban Studies",
+      "category": "Architectural and Environmental Design and Planning",
+      "campuses": [
+        "Berkeley",
+        "Irvine"
+      ]
+    },
+    {
+      "name": "Urban Studies and Planning",
+      "category": "Social Sciences",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Visual Arts - Art History/ Theory/ Criticism",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Visual Arts - Interdisciplinary Computing and the Arts",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Visual Arts - Media",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "San Diego"
+      ]
+    },
+    {
+      "name": "Visual Arts - Studio",
+      "category": "Art - Applied, Fine, Performing and Art History",
+      "campuses": [
+        "San Diego"
+      ]
+    }
+  ]
+}

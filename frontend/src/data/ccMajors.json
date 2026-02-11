@@ -1,0 +1,420 @@
+{
+  "lastUpdated": "2025-02-09",
+  "source": "California Community Colleges Chancellor's Office - Official ADT List",
+  "description": "Associate Degrees for Transfer (ADT) - Standardized transfer majors available at most California Community Colleges",
+  "totalMajors": 41,
+  "note": "ADT degrees (AA-T and AS-T) guarantee admission to CSU with junior standing and provide priority consideration for UC transfer",
+  "majors": [
+    {
+      "id": "accounting",
+      "name": "Accounting",
+      "degreeType": "AS-T",
+      "category": "Business",
+      "transfersTo": ["CSU", "UC"],
+      "commonCourses": ["Financial Accounting", "Managerial Accounting", "Business Law", "Microeconomics", "Macroeconomics"],
+      "relatedUCMajors": ["Business Administration", "Economics", "Accounting"],
+      "relatedCSUMajors": ["Accounting", "Business Administration (Accounting)", "Finance"]
+    },
+    {
+      "id": "administration-of-justice",
+      "name": "Administration of Justice",
+      "degreeType": "AA-T",
+      "category": "Social Sciences",
+      "transfersTo": ["CSU"],
+      "commonCourses": ["Intro to Criminal Justice", "Criminal Law", "Evidence", "Criminology", "Juvenile Justice"],
+      "relatedUCMajors": ["Sociology", "Legal Studies", "Criminology"],
+      "relatedCSUMajors": ["Criminal Justice", "Administration of Justice", "Criminology"]
+    },
+    {
+      "id": "agriculture-animal-science",
+      "name": "Agriculture Animal Science",
+      "degreeType": "AS-T",
+      "category": "Agriculture",
+      "transfersTo": ["CSU"],
+      "commonCourses": ["Animal Science", "Animal Nutrition", "Animal Health", "Livestock Management"],
+      "relatedUCMajors": ["Animal Science", "Biology"],
+      "relatedCSUMajors": ["Animal Science", "Agricultural Science"]
+    },
+    {
+      "id": "agriculture-business",
+      "name": "Agriculture Business",
+      "degreeType": "AS-T",
+      "category": "Agriculture",
+      "transfersTo": ["CSU"],
+      "commonCourses": ["Intro to Agribusiness", "Agricultural Economics", "Farm Management", "Agricultural Marketing"],
+      "relatedUCMajors": ["Managerial Economics", "Agricultural Economics"],
+      "relatedCSUMajors": ["Agribusiness", "Agricultural Business"]
+    },
+    {
+      "id": "agriculture-plant-science",
+      "name": "Agriculture Plant Science",
+      "degreeType": "AS-T",
+      "category": "Agriculture",
+      "transfersTo": ["CSU"],
+      "commonCourses": ["Plant Science", "Soil Science", "Botany", "Crop Production"],
+      "relatedUCMajors": ["Plant Biology", "Environmental Science"],
+      "relatedCSUMajors": ["Plant Science", "Agricultural Science", "Horticulture"]
+    },
+    {
+      "id": "anthropology",
+      "name": "Anthropology",
+      "degreeType": "AA-T",
+      "category": "Social Sciences",
+      "transfersTo": ["CSU", "UC"],
+      "commonCourses": ["Cultural Anthropology", "Physical Anthropology", "Archaeology", "World Cultures"],
+      "relatedUCMajors": ["Anthropology"],
+      "relatedCSUMajors": ["Anthropology"]
+    },
+    {
+      "id": "art-history",
+      "name": "Art History",
+      "degreeType": "AA-T",
+      "category": "Arts & Humanities",
+      "transfersTo": ["CSU", "UC"],
+      "commonCourses": ["Art History Survey I", "Art History Survey II", "Modern Art", "Non-Western Art"],
+      "relatedUCMajors": ["Art History", "History of Art"],
+      "relatedCSUMajors": ["Art History"]
+    },
+    {
+      "id": "biology",
+      "name": "Biology",
+      "degreeType": "AS-T",
+      "category": "STEM",
+      "transfersTo": ["CSU", "UC"],
+      "commonCourses": ["General Biology I", "General Biology II", "General Chemistry I", "General Chemistry II", "Organic Chemistry", "Calculus"],
+      "relatedUCMajors": ["Biology", "Molecular Biology", "Cell Biology", "Ecology"],
+      "relatedCSUMajors": ["Biology", "Biological Sciences"]
+    },
+    {
+      "id": "business-administration",
+      "name": "Business Administration",
+      "degreeType": "AS-T",
+      "category": "Business",
+      "transfersTo": ["CSU", "UC"],
+      "commonCourses": ["Financial Accounting", "Managerial Accounting", "Business Law", "Microeconomics", "Macroeconomics", "Business Calculus", "Statistics"],
+      "relatedUCMajors": ["Business Administration", "Economics", "Managerial Economics"],
+      "relatedCSUMajors": ["Business Administration", "Management", "Finance", "Marketing"]
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry",
+      "degreeType": "AS-T",
+      "category": "STEM",
+      "transfersTo": ["CSU", "UC"],
+      "commonCourses": ["General Chemistry I", "General Chemistry II", "Organic Chemistry I", "Organic Chemistry II", "Calculus I", "Calculus II", "Physics"],
+      "relatedUCMajors": ["Chemistry", "Biochemistry"],
+      "relatedCSUMajors": ["Chemistry", "Biochemistry"]
+    },
+    {
+      "id": "child-development",
+      "name": "Child and Adolescent Development",
+      "degreeType": "AA-T",
+      "category": "Social Sciences",
+      "transfersTo": ["CSU"],
+      "commonCourses": ["Child Development", "Child, Family, Community", "Observation and Assessment", "Curriculum for Young Children"],
+      "relatedUCMajors": ["Psychology", "Human Development"],
+      "relatedCSUMajors": ["Child and Adolescent Development", "Human Development", "Child Development"]
+    },
+    {
+      "id": "communication-studies",
+      "name": "Communication Studies",
+      "degreeType": "AA-T",
+      "category": "Arts & Humanities",
+      "transfersTo": ["CSU", "UC"],
+      "commonCourses": ["Public Speaking", "Interpersonal Communication", "Argumentation", "Mass Communication"],
+      "relatedUCMajors": ["Communication", "Media Studies"],
+      "relatedCSUMajors": ["Communication Studies", "Communications"]
+    },
+    {
+      "id": "computer-science",
+      "name": "Computer Science",
+      "degreeType": "AS-T",
+      "category": "STEM",
+      "transfersTo": ["CSU", "UC"],
+      "commonCourses": ["Programming Fundamentals", "Object-Oriented Programming", "Data Structures", "Calculus I", "Calculus II", "Linear Algebra", "Discrete Math", "Physics"],
+      "relatedUCMajors": ["Computer Science", "Computer Engineering", "Data Science"],
+      "relatedCSUMajors": ["Computer Science", "Software Engineering", "Computer Information Systems"]
+    },
+    {
+      "id": "early-childhood-education",
+      "name": "Early Childhood Education",
+      "degreeType": "AA-T",
+      "category": "Education",
+      "transfersTo": ["CSU"],
+      "commonCourses": ["Child Development", "Early Childhood Curriculum", "Child, Family, Community", "Observation and Assessment"],
+      "relatedUCMajors": ["Education", "Psychology"],
+      "relatedCSUMajors": ["Child Development", "Liberal Studies", "Early Childhood Education"]
+    },
+    {
+      "id": "economics",
+      "name": "Economics",
+      "degreeType": "AA-T",
+      "category": "Social Sciences",
+      "transfersTo": ["CSU", "UC"],
+      "commonCourses": ["Microeconomics", "Macroeconomics", "Calculus", "Statistics"],
+      "relatedUCMajors": ["Economics", "Business Economics"],
+      "relatedCSUMajors": ["Economics", "Business Economics"]
+    },
+    {
+      "id": "elementary-teacher-education",
+      "name": "Elementary Teacher Education",
+      "degreeType": "AA-T",
+      "category": "Education",
+      "transfersTo": ["CSU"],
+      "commonCourses": ["Intro to Teaching", "Child Development", "Educational Psychology", "Multicultural Education"],
+      "relatedUCMajors": ["Education"],
+      "relatedCSUMajors": ["Liberal Studies", "Elementary Education", "Child Development"]
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "degreeType": "AA-T",
+      "category": "Arts & Humanities",
+      "transfersTo": ["CSU", "UC"],
+      "commonCourses": ["English Composition", "Critical Thinking", "American Literature", "British Literature", "World Literature"],
+      "relatedUCMajors": ["English", "Comparative Literature", "Creative Writing"],
+      "relatedCSUMajors": ["English", "Creative Writing", "Literature"]
+    },
+    {
+      "id": "environmental-science",
+      "name": "Environmental Science",
+      "degreeType": "AS-T",
+      "category": "STEM",
+      "transfersTo": ["CSU", "UC"],
+      "commonCourses": ["Environmental Science", "Biology", "Chemistry", "Geology", "Statistics"],
+      "relatedUCMajors": ["Environmental Science", "Environmental Studies", "Earth Science"],
+      "relatedCSUMajors": ["Environmental Science", "Environmental Studies"]
+    },
+    {
+      "id": "film-television",
+      "name": "Film, Television, and Electronic Media",
+      "degreeType": "AA-T",
+      "category": "Arts & Humanities",
+      "transfersTo": ["CSU", "UC"],
+      "commonCourses": ["Intro to Film", "Film History", "Screenwriting", "Video Production"],
+      "relatedUCMajors": ["Film and Media Studies", "Film"],
+      "relatedCSUMajors": ["Film", "Television", "Cinema", "Radio-TV-Film"]
+    },
+    {
+      "id": "geography",
+      "name": "Geography",
+      "degreeType": "AA-T",
+      "category": "Social Sciences",
+      "transfersTo": ["CSU", "UC"],
+      "commonCourses": ["Physical Geography", "Cultural Geography", "World Regional Geography", "GIS"],
+      "relatedUCMajors": ["Geography", "Environmental Studies"],
+      "relatedCSUMajors": ["Geography"]
+    },
+    {
+      "id": "geology",
+      "name": "Geology",
+      "degreeType": "AS-T",
+      "category": "STEM",
+      "transfersTo": ["CSU", "UC"],
+      "commonCourses": ["Physical Geology", "Historical Geology", "Chemistry", "Calculus", "Physics"],
+      "relatedUCMajors": ["Geology", "Earth Science", "Geophysics"],
+      "relatedCSUMajors": ["Geology", "Earth Science"]
+    },
+    {
+      "id": "history",
+      "name": "History",
+      "degreeType": "AA-T",
+      "category": "Arts & Humanities",
+      "transfersTo": ["CSU", "UC"],
+      "commonCourses": ["US History", "World History", "Western Civilization", "California History"],
+      "relatedUCMajors": ["History"],
+      "relatedCSUMajors": ["History"]
+    },
+    {
+      "id": "journalism",
+      "name": "Journalism",
+      "degreeType": "AA-T",
+      "category": "Arts & Humanities",
+      "transfersTo": ["CSU", "UC"],
+      "commonCourses": ["Mass Communication", "News Writing", "Media Law", "Photojournalism"],
+      "relatedUCMajors": ["Communication", "Media Studies"],
+      "relatedCSUMajors": ["Journalism", "Mass Communication"]
+    },
+    {
+      "id": "kinesiology",
+      "name": "Kinesiology",
+      "degreeType": "AA-T",
+      "category": "Health Sciences",
+      "transfersTo": ["CSU", "UC"],
+      "commonCourses": ["Intro to Kinesiology", "Human Anatomy", "Human Physiology", "Exercise Physiology", "Biomechanics"],
+      "relatedUCMajors": ["Human Biology", "Exercise Biology"],
+      "relatedCSUMajors": ["Kinesiology", "Physical Education", "Exercise Science"]
+    },
+    {
+      "id": "mathematics",
+      "name": "Mathematics",
+      "degreeType": "AS-T",
+      "category": "STEM",
+      "transfersTo": ["CSU", "UC"],
+      "commonCourses": ["Calculus I", "Calculus II", "Calculus III", "Linear Algebra", "Differential Equations"],
+      "relatedUCMajors": ["Mathematics", "Applied Mathematics", "Statistics"],
+      "relatedCSUMajors": ["Mathematics", "Applied Mathematics"]
+    },
+    {
+      "id": "music",
+      "name": "Music",
+      "degreeType": "AA-T",
+      "category": "Arts & Humanities",
+      "transfersTo": ["CSU", "UC"],
+      "commonCourses": ["Music Theory", "Music History", "Ear Training", "Piano", "Ensemble"],
+      "relatedUCMajors": ["Music"],
+      "relatedCSUMajors": ["Music"]
+    },
+    {
+      "id": "nutrition",
+      "name": "Nutrition and Dietetics",
+      "degreeType": "AS-T",
+      "category": "Health Sciences",
+      "transfersTo": ["CSU", "UC"],
+      "commonCourses": ["Nutrition", "Chemistry", "Biology", "Anatomy", "Physiology"],
+      "relatedUCMajors": ["Nutritional Science", "Dietetics"],
+      "relatedCSUMajors": ["Nutrition", "Dietetics", "Food Science"]
+    },
+    {
+      "id": "philosophy",
+      "name": "Philosophy",
+      "degreeType": "AA-T",
+      "category": "Arts & Humanities",
+      "transfersTo": ["CSU", "UC"],
+      "commonCourses": ["Intro to Philosophy", "Logic", "Ethics", "History of Philosophy"],
+      "relatedUCMajors": ["Philosophy"],
+      "relatedCSUMajors": ["Philosophy"]
+    },
+    {
+      "id": "physics",
+      "name": "Physics",
+      "degreeType": "AS-T",
+      "category": "STEM",
+      "transfersTo": ["CSU", "UC"],
+      "commonCourses": ["Physics I", "Physics II", "Physics III", "Calculus I", "Calculus II", "Calculus III", "Linear Algebra", "Differential Equations"],
+      "relatedUCMajors": ["Physics", "Astrophysics", "Applied Physics"],
+      "relatedCSUMajors": ["Physics"]
+    },
+    {
+      "id": "political-science",
+      "name": "Political Science",
+      "degreeType": "AA-T",
+      "category": "Social Sciences",
+      "transfersTo": ["CSU", "UC"],
+      "commonCourses": ["American Government", "Comparative Politics", "International Relations", "Political Theory"],
+      "relatedUCMajors": ["Political Science", "International Relations"],
+      "relatedCSUMajors": ["Political Science"]
+    },
+    {
+      "id": "psychology",
+      "name": "Psychology",
+      "degreeType": "AA-T",
+      "category": "Social Sciences",
+      "transfersTo": ["CSU", "UC"],
+      "commonCourses": ["Intro to Psychology", "Research Methods", "Statistics", "Developmental Psychology", "Abnormal Psychology"],
+      "relatedUCMajors": ["Psychology", "Cognitive Science"],
+      "relatedCSUMajors": ["Psychology"]
+    },
+    {
+      "id": "public-health",
+      "name": "Public Health Science",
+      "degreeType": "AS-T",
+      "category": "Health Sciences",
+      "transfersTo": ["CSU", "UC"],
+      "commonCourses": ["Intro to Public Health", "Biology", "Statistics", "Health Education"],
+      "relatedUCMajors": ["Public Health"],
+      "relatedCSUMajors": ["Public Health", "Health Science", "Community Health"]
+    },
+    {
+      "id": "social-justice",
+      "name": "Social Justice Studies",
+      "degreeType": "AA-T",
+      "category": "Social Sciences",
+      "transfersTo": ["CSU"],
+      "commonCourses": ["Intro to Social Justice", "Ethnic Studies", "Gender Studies", "Sociology"],
+      "relatedUCMajors": ["Sociology", "Ethnic Studies", "Gender Studies"],
+      "relatedCSUMajors": ["Social Justice", "Ethnic Studies", "Sociology"]
+    },
+    {
+      "id": "social-work",
+      "name": "Social Work and Human Services",
+      "degreeType": "AA-T",
+      "category": "Social Sciences",
+      "transfersTo": ["CSU"],
+      "commonCourses": ["Intro to Social Work", "Human Services", "Psychology", "Sociology"],
+      "relatedUCMajors": ["Sociology", "Psychology"],
+      "relatedCSUMajors": ["Social Work", "Human Services"]
+    },
+    {
+      "id": "sociology",
+      "name": "Sociology",
+      "degreeType": "AA-T",
+      "category": "Social Sciences",
+      "transfersTo": ["CSU", "UC"],
+      "commonCourses": ["Intro to Sociology", "Social Problems", "Research Methods", "Statistics"],
+      "relatedUCMajors": ["Sociology"],
+      "relatedCSUMajors": ["Sociology"]
+    },
+    {
+      "id": "spanish",
+      "name": "Spanish",
+      "degreeType": "AA-T",
+      "category": "Arts & Humanities",
+      "transfersTo": ["CSU", "UC"],
+      "commonCourses": ["Spanish I-IV", "Spanish Composition", "Spanish Literature", "Hispanic Culture"],
+      "relatedUCMajors": ["Spanish", "Spanish and Portuguese"],
+      "relatedCSUMajors": ["Spanish"]
+    },
+    {
+      "id": "studio-arts",
+      "name": "Studio Arts",
+      "degreeType": "AA-T",
+      "category": "Arts & Humanities",
+      "transfersTo": ["CSU", "UC"],
+      "commonCourses": ["Drawing", "Painting", "Sculpture", "Art History", "2D Design", "3D Design"],
+      "relatedUCMajors": ["Art", "Studio Art", "Fine Arts"],
+      "relatedCSUMajors": ["Art", "Studio Art", "Fine Arts"]
+    },
+    {
+      "id": "theatre-arts",
+      "name": "Theatre Arts",
+      "degreeType": "AA-T",
+      "category": "Arts & Humanities",
+      "transfersTo": ["CSU", "UC"],
+      "commonCourses": ["Intro to Theatre", "Acting", "Stagecraft", "Theatre History"],
+      "relatedUCMajors": ["Theater", "Drama"],
+      "relatedCSUMajors": ["Theatre Arts", "Drama", "Theatre"]
+    },
+    {
+      "id": "engineering",
+      "name": "Engineering",
+      "degreeType": "AS-T",
+      "category": "STEM",
+      "transfersTo": ["CSU", "UC"],
+      "commonCourses": ["Calculus I", "Calculus II", "Calculus III", "Physics I", "Physics II", "Physics III", "Chemistry", "Linear Algebra", "Differential Equations", "Intro to Engineering"],
+      "relatedUCMajors": ["Mechanical Engineering", "Electrical Engineering", "Civil Engineering", "Aerospace Engineering", "Bioengineering"],
+      "relatedCSUMajors": ["Mechanical Engineering", "Electrical Engineering", "Civil Engineering", "Computer Engineering"]
+    },
+    {
+      "id": "other",
+      "name": "Other / Custom Major",
+      "degreeType": "varies",
+      "category": "Other",
+      "transfersTo": ["CSU", "UC"],
+      "commonCourses": [],
+      "relatedUCMajors": [],
+      "relatedCSUMajors": [],
+      "note": "Select this if your major is not listed above. AI will analyze your courses to determine transfer eligibility."
+    }
+  ],
+  "categories": [
+    {"id": "stem", "name": "STEM", "count": 10},
+    {"id": "business", "name": "Business", "count": 2},
+    {"id": "social-sciences", "name": "Social Sciences", "count": 12},
+    {"id": "arts-humanities", "name": "Arts & Humanities", "count": 11},
+    {"id": "health-sciences", "name": "Health Sciences", "count": 3},
+    {"id": "education", "name": "Education", "count": 2},
+    {"id": "agriculture", "name": "Agriculture", "count": 3},
+    {"id": "other", "name": "Other", "count": 1}
+  ]
+}

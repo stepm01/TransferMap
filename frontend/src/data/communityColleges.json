@@ -1,0 +1,1051 @@
+{
+  "lastUpdated": "2025-02-04",
+  "source": "California Community Colleges Chancellor's Office (CCCCO)",
+  "totalColleges": 116,
+  "colleges": [
+    {
+      "id": "allan-hancock",
+      "name": "Allan Hancock College",
+      "district": "Allan Hancock Joint Community College District",
+      "address": "800 South College Drive, Santa Maria 93454-6368",
+      "phone": "805.922.6966",
+      "website": "www.hancockcollege.edu",
+      "region": "Central Coast"
+    },
+    {
+      "id": "american-river",
+      "name": "American River College",
+      "district": "Los Rios Community College District",
+      "address": "4700 College Oak Drive, Sacramento 95841-4286",
+      "phone": "916.484.8011",
+      "website": "www.arc.losrios.edu",
+      "region": "Sacramento"
+    },
+    {
+      "id": "antelope-valley",
+      "name": "Antelope Valley College",
+      "district": "Antelope Valley Community College District",
+      "address": "3041 West Avenue K, Lancaster 93536-5426",
+      "phone": "661.722.6300",
+      "website": "www.avc.edu",
+      "region": "Inland Empire"
+    },
+    {
+      "id": "bakersfield",
+      "name": "Bakersfield College",
+      "district": "Kern Community College District",
+      "address": "1801 Panorama Drive, Bakersfield 93305-1299",
+      "phone": "661.395.4011",
+      "website": "www.bakersfieldcollege.edu",
+      "region": "Central Valley"
+    },
+    {
+      "id": "barstow",
+      "name": "Barstow Community College",
+      "district": "Barstow Community College",
+      "address": "2700 Barstow Road, Barstow 92311-6699",
+      "phone": "760.252.2411",
+      "website": "www.barstow.edu",
+      "region": "Inland Empire"
+    },
+    {
+      "id": "berkeley-city",
+      "name": "Berkeley City College",
+      "district": "Peralta Community College District",
+      "address": "2050 Center Street, Berkeley 94704-1205",
+      "phone": "510.981.2800",
+      "website": "www.berkeleycitycollege.edu",
+      "region": "Bay Area"
+    },
+    {
+      "id": "butte",
+      "name": "Butte College",
+      "district": "Butte-Glenn Community College District",
+      "address": "3536 Butte Campus Drive, Oroville 95965-8399",
+      "phone": "530.895.2511",
+      "website": "www.butte.edu",
+      "region": "North State"
+    },
+    {
+      "id": "cabrillo",
+      "name": "Cabrillo College",
+      "district": "Cabrillo Community College District",
+      "address": "6500 Soquel Drive, Aptos 95003-3119",
+      "phone": "831.479.6100",
+      "website": "www.cabrillo.edu",
+      "region": "Central Coast"
+    },
+    {
+      "id": "calbright",
+      "name": "Calbright College",
+      "district": "Calbright College",
+      "address": "Online",
+      "phone": "833.956.0255",
+      "website": "www.calbright.org",
+      "region": "Online"
+    },
+    {
+      "id": "canada",
+      "name": "Cañada College",
+      "district": "San Mateo County Community College District",
+      "address": "4200 Farm Hill Boulevard, Redwood City 94061-1099",
+      "phone": "650.306.3100",
+      "website": "www.canadacollege.edu",
+      "region": "Bay Area"
+    },
+    {
+      "id": "cerritos",
+      "name": "Cerritos College",
+      "district": "Cerritos Community College District",
+      "address": "11110 Alondra Boulevard, Norwalk 90650-6269",
+      "phone": "562.860.2451",
+      "website": "www.cerritos.edu",
+      "region": "Los Angeles"
+    },
+    {
+      "id": "cerro-coso",
+      "name": "Cerro Coso Community College",
+      "district": "Kern Community College District",
+      "address": "3000 College Heights Boulevard, Ridgecrest 93555-9571",
+      "phone": "760.384.6100",
+      "website": "www.cerrocoso.edu",
+      "region": "Central Valley"
+    },
+    {
+      "id": "chabot",
+      "name": "Chabot College",
+      "district": "Chabot-Las Positas Community College District",
+      "address": "25555 Hesperian Boulevard, Hayward 94545-5001",
+      "phone": "510.723.6600",
+      "website": "www.chabotcollege.edu",
+      "region": "Bay Area"
+    },
+    {
+      "id": "chaffey",
+      "name": "Chaffey College",
+      "district": "Chaffey Community College District",
+      "address": "5885 Haven Avenue, Rancho Cucamonga 91737-3002",
+      "phone": "909.652.6000",
+      "website": "www.chaffey.edu",
+      "region": "Inland Empire"
+    },
+    {
+      "id": "citrus",
+      "name": "Citrus College",
+      "district": "Citrus Community College District",
+      "address": "1000 West Foothill Boulevard, Glendora 91741-1899",
+      "phone": "626.963.0323",
+      "website": "www.citruscollege.edu",
+      "region": "Los Angeles"
+    },
+    {
+      "id": "city-college-sf",
+      "name": "City College of San Francisco",
+      "district": "San Francisco Community College District",
+      "address": "50 Frida Kahlo Way, Cloud 324, San Francisco 94112-1898",
+      "phone": "415.239.3000",
+      "website": "www.ccsf.edu",
+      "region": "Bay Area"
+    },
+    {
+      "id": "clovis",
+      "name": "Clovis Community College",
+      "district": "State Center Community College District",
+      "address": "10309 N. Willow Avenue, Fresno 93730-5401",
+      "phone": "559.325.5200",
+      "website": "www.ClovisCollege.edu",
+      "region": "Central Valley"
+    },
+    {
+      "id": "coastline",
+      "name": "Coastline College",
+      "district": "Coast Community College District",
+      "address": "11460 Warner Avenue, Fountain Valley 92708-2597",
+      "phone": "714.546.7600",
+      "website": "www.coastline.edu",
+      "region": "Orange County"
+    },
+    {
+      "id": "college-of-alameda",
+      "name": "College of Alameda",
+      "district": "Peralta Community College District",
+      "address": "555 Ralph Appezzeto Memorial Parkway, Alameda 94501-2109",
+      "phone": "510.522.7221",
+      "website": "www.alameda.edu",
+      "region": "Bay Area"
+    },
+    {
+      "id": "college-of-marin",
+      "name": "College of Marin",
+      "district": "Marin Community College District",
+      "address": "835 College Avenue, Kentfield 94904-2590",
+      "phone": "415.457.8811",
+      "website": "www.marin.edu",
+      "region": "Bay Area"
+    },
+    {
+      "id": "college-of-san-mateo",
+      "name": "College of San Mateo",
+      "district": "San Mateo County Community College District",
+      "address": "1700 West Hillsdale Boulevard, San Mateo 94402-3784",
+      "phone": "650.574.6161",
+      "website": "www.collegeofsanmateo.edu",
+      "region": "Bay Area"
+    },
+    {
+      "id": "college-of-the-canyons",
+      "name": "College of the Canyons",
+      "district": "Santa Clarita Community College District",
+      "address": "26455 N. Rockwell Canyon Road, Santa Clarita 91355-1899",
+      "phone": "661.259.7800",
+      "website": "www.canyons.edu",
+      "region": "Los Angeles"
+    },
+    {
+      "id": "college-of-the-desert",
+      "name": "College of the Desert",
+      "district": "Desert Community College District",
+      "address": "43500 Monterey Avenue, Palm Desert 92260-2499",
+      "phone": "760.346.8041",
+      "website": "www.collegeofthedesert.edu",
+      "region": "Inland Empire"
+    },
+    {
+      "id": "college-of-the-redwoods",
+      "name": "College of the Redwoods",
+      "district": "Redwoods Community College District",
+      "address": "7351 Tompkins Hill Road, Eureka 95501-9301",
+      "phone": "707.476.4100",
+      "website": "www.redwoods.edu",
+      "region": "North Coast"
+    },
+    {
+      "id": "college-of-the-sequoias",
+      "name": "College of the Sequoias",
+      "district": "Sequoias Community College District",
+      "address": "915 South Mooney Boulevard, Visalia 93277-2234",
+      "phone": "559.730.3700",
+      "website": "www.cos.edu",
+      "region": "Central Valley"
+    },
+    {
+      "id": "college-of-the-siskiyous",
+      "name": "College of the Siskiyous",
+      "district": "Siskiyous Joint Community College District",
+      "address": "800 College Avenue, Weed 96094-2899",
+      "phone": "530.938.5555",
+      "website": "www.siskiyous.edu",
+      "region": "North State"
+    },
+    {
+      "id": "columbia",
+      "name": "Columbia College",
+      "district": "Yosemite Community College District",
+      "address": "11600 Columbia College Drive, Sonora 95370-8518",
+      "phone": "209.588.5100",
+      "website": "www.gocolumbia.edu",
+      "region": "Central Valley"
+    },
+    {
+      "id": "compton",
+      "name": "Compton College",
+      "district": "Compton Community College District",
+      "address": "1111 E. Artesia Boulevard, Compton 90221-5314",
+      "phone": "310.900.1600",
+      "website": "www.compton.edu",
+      "region": "Los Angeles"
+    },
+    {
+      "id": "contra-costa",
+      "name": "Contra Costa College",
+      "district": "Contra Costa Community College District",
+      "address": "2600 Mission Bell Drive, San Pablo 94806-3195",
+      "phone": "510.235.7800",
+      "website": "www.contracosta.edu",
+      "region": "Bay Area"
+    },
+    {
+      "id": "copper-mountain",
+      "name": "Copper Mountain College",
+      "district": "Copper Mountain Community College District",
+      "address": "6162 Rotary Way, Joshua Tree 92252-6100",
+      "phone": "760.366.3791",
+      "website": "www.cmccd.edu",
+      "region": "Inland Empire"
+    },
+    {
+      "id": "cosumnes-river",
+      "name": "Cosumnes River College",
+      "district": "Los Rios Community College District",
+      "address": "8401 Center Parkway, Sacramento 95823-5799",
+      "phone": "916.691.7344",
+      "website": "www.crc.losrios.edu",
+      "region": "Sacramento"
+    },
+    {
+      "id": "crafton-hills",
+      "name": "Crafton Hills College",
+      "district": "San Bernardino Community College District",
+      "address": "11711 Sand Canyon Road, Yucaipa 92399-1799",
+      "phone": "909.794.2161",
+      "website": "www.craftonhills.edu",
+      "region": "Inland Empire"
+    },
+    {
+      "id": "cuesta",
+      "name": "Cuesta College",
+      "district": "San Luis Obispo County Community College District",
+      "address": "PO Box 8106, San Luis Obispo 93403-8106",
+      "phone": "805.546.3100",
+      "website": "www.cuesta.edu",
+      "region": "Central Coast"
+    },
+    {
+      "id": "cuyamaca",
+      "name": "Cuyamaca College",
+      "district": "Grossmont-Cuyamaca Community College District",
+      "address": "900 Rancho San Diego Parkway, El Cajon 92019-4304",
+      "phone": "619.660.4000",
+      "website": "www.cuyamaca.edu",
+      "region": "San Diego"
+    },
+    {
+      "id": "cypress",
+      "name": "Cypress College",
+      "district": "North Orange County Community College District",
+      "address": "9200 Valley View Street, Cypress 90630-5897",
+      "phone": "714.484.7000",
+      "website": "www.cypresscollege.edu",
+      "region": "Orange County"
+    },
+    {
+      "id": "de-anza",
+      "name": "De Anza College",
+      "district": "Foothill-DeAnza Community College District",
+      "address": "21250 Stevens Creek Boulevard, Cupertino 95014-5797",
+      "phone": "408.864.5300",
+      "website": "www.deanza.edu",
+      "region": "Bay Area"
+    },
+    {
+      "id": "diablo-valley",
+      "name": "Diablo Valley College",
+      "district": "Contra Costa Community College District",
+      "address": "321 Golf Club Road, Pleasant Hill 94523-1544",
+      "phone": "925.685.1230",
+      "website": "www.dvc.edu",
+      "region": "Bay Area"
+    },
+    {
+      "id": "east-los-angeles",
+      "name": "East Los Angeles College",
+      "district": "Los Angeles Community College District",
+      "address": "1301 Avenida Cesar Chavez, Monterey Park 91754-6099",
+      "phone": "323.265.8650",
+      "website": "www.elac.edu",
+      "region": "Los Angeles"
+    },
+    {
+      "id": "el-camino",
+      "name": "El Camino College",
+      "district": "El Camino Community College District",
+      "address": "16007 Crenshaw Boulevard, Torrance 90506-0002",
+      "phone": "310.532.3670",
+      "website": "www.elcamino.edu",
+      "region": "Los Angeles"
+    },
+    {
+      "id": "evergreen-valley",
+      "name": "Evergreen Valley College",
+      "district": "San Jose-Evergreen Community College District",
+      "address": "3095 Yerba Buena Road, San Jose 95135-1598",
+      "phone": "408.274.7900",
+      "website": "www.evc.edu",
+      "region": "Bay Area"
+    },
+    {
+      "id": "feather-river",
+      "name": "Feather River College",
+      "district": "Feather River Community College District",
+      "address": "570 Golden Eagle Avenue, Quincy 95971-9124",
+      "phone": "530.283.0202",
+      "website": "www.frc.edu",
+      "region": "North State"
+    },
+    {
+      "id": "folsom-lake",
+      "name": "Folsom Lake College",
+      "district": "Los Rios Community College District",
+      "address": "10 College Parkway, Folsom 95630-6798",
+      "phone": "916.608.6500",
+      "website": "www.flc.losrios.edu",
+      "region": "Sacramento"
+    },
+    {
+      "id": "foothill",
+      "name": "Foothill College",
+      "district": "Foothill-DeAnza Community College District",
+      "address": "12345 El Monte Road, Los Altos Hills 94022-4599",
+      "phone": "650.949.7777",
+      "website": "www.foothill.edu",
+      "region": "Bay Area"
+    },
+    {
+      "id": "fresno-city",
+      "name": "Fresno City College",
+      "district": "State Center Community College District",
+      "address": "1101 E. University Avenue, Fresno 93741-0001",
+      "phone": "559.442.8200",
+      "website": "www.fresnocitycollege.edu",
+      "region": "Central Valley"
+    },
+    {
+      "id": "fullerton",
+      "name": "Fullerton College",
+      "district": "North Orange County Community College District",
+      "address": "321 East Chapman Avenue, Fullerton 92832-2095",
+      "phone": "714.992.7000",
+      "website": "www.fullcoll.edu",
+      "region": "Orange County"
+    },
+    {
+      "id": "gavilan",
+      "name": "Gavilan College",
+      "district": "Gavilan Community College District",
+      "address": "5055 Santa Teresa Boulevard, Gilroy 95020-9599",
+      "phone": "408.848.4800",
+      "website": "www.gavilan.edu",
+      "region": "Bay Area"
+    },
+    {
+      "id": "glendale",
+      "name": "Glendale Community College",
+      "district": "Glendale Community College District",
+      "address": "1500 North Verdugo Road, Glendale 91208-2894",
+      "phone": "818.240.1000",
+      "website": "www.glendale.edu",
+      "region": "Los Angeles"
+    },
+    {
+      "id": "golden-west",
+      "name": "Golden West College",
+      "district": "Coast Community College District",
+      "address": "15744 Goldenwest Street, Huntington Beach 92647-0592",
+      "phone": "714.892.7711",
+      "website": "www.goldenwestcollege.edu",
+      "region": "Orange County"
+    },
+    {
+      "id": "grossmont",
+      "name": "Grossmont College",
+      "district": "Grossmont-Cuyamaca Community College District",
+      "address": "8800 Grossmont College Drive, El Cajon 92020-1799",
+      "phone": "619.644.7000",
+      "website": "www.grossmont.edu",
+      "region": "San Diego"
+    },
+    {
+      "id": "hartnell",
+      "name": "Hartnell College",
+      "district": "Hartnell Community College District",
+      "address": "411 Central Avenue, Salinas 93901-1697",
+      "phone": "831.755.6700",
+      "website": "www.hartnell.edu",
+      "region": "Central Coast"
+    },
+    {
+      "id": "imperial-valley",
+      "name": "Imperial Valley College",
+      "district": "Imperial Community College District",
+      "address": "380 East Aten Road, Imperial 92251-9787",
+      "phone": "760.352.8320",
+      "website": "www.imperial.edu",
+      "region": "San Diego"
+    },
+    {
+      "id": "irvine-valley",
+      "name": "Irvine Valley College",
+      "district": "South Orange County Community College District",
+      "address": "5500 Irvine Center Drive, Irvine 92618-0301",
+      "phone": "949.451.5100",
+      "website": "www.ivc.edu",
+      "region": "Orange County"
+    },
+    {
+      "id": "lake-tahoe",
+      "name": "Lake Tahoe Community College",
+      "district": "Lake Tahoe Community College District",
+      "address": "1 College Drive, So. Lake Tahoe 96150-4524",
+      "phone": "530.541.4660",
+      "website": "www.ltcc.edu",
+      "region": "North State"
+    },
+    {
+      "id": "laney",
+      "name": "Laney College",
+      "district": "Peralta Community College District",
+      "address": "900 Fallon Street, Oakland 94607-4893",
+      "phone": "510.834.5740",
+      "website": "www.laney.edu",
+      "region": "Bay Area"
+    },
+    {
+      "id": "las-positas",
+      "name": "Las Positas College",
+      "district": "Chabot-Las Positas Community College District",
+      "address": "3000 Campus Hill Drive, Livermore 94551-7623",
+      "phone": "925.424.1000",
+      "website": "www.laspositascollege.edu",
+      "region": "Bay Area"
+    },
+    {
+      "id": "lassen",
+      "name": "Lassen College",
+      "district": "Lassen Community College District",
+      "address": "478 200 Hwy 139, Susanville 96130",
+      "phone": "530.257.6181",
+      "website": "www.lassencollege.edu",
+      "region": "North State"
+    },
+    {
+      "id": "long-beach-city",
+      "name": "Long Beach City College",
+      "district": "Long Beach Community College District",
+      "address": "4901 East Carson Street, Long Beach 90808-1706",
+      "phone": "562.938.4111",
+      "website": "www.lbcc.edu",
+      "region": "Los Angeles"
+    },
+    {
+      "id": "los-angeles-city",
+      "name": "Los Angeles City College",
+      "district": "Los Angeles Community College District",
+      "address": "855 North Vermont Avenue, Los Angeles 90029-3590",
+      "phone": "323.953.4000",
+      "website": "www.lacitycollege.edu",
+      "region": "Los Angeles"
+    },
+    {
+      "id": "los-angeles-harbor",
+      "name": "Los Angeles Harbor College",
+      "district": "Los Angeles Community College District",
+      "address": "1111 Figueroa Place, Wilmington 90744-2397",
+      "phone": "310.233.4000",
+      "website": "www.lahc.edu",
+      "region": "Los Angeles"
+    },
+    {
+      "id": "los-angeles-mission",
+      "name": "Los Angeles Mission College",
+      "district": "Los Angeles Community College District",
+      "address": "13356 Eldridge Avenue, Sylmar 91342-3200",
+      "phone": "818.364.7600",
+      "website": "www.lamission.edu",
+      "region": "Los Angeles"
+    },
+    {
+      "id": "los-angeles-pierce",
+      "name": "Los Angeles Pierce College",
+      "district": "Los Angeles Community College District",
+      "address": "6201 Winnetka Avenue, Woodland Hills 91371-0001",
+      "phone": "818.710.4100",
+      "website": "www.piercecollege.edu",
+      "region": "Los Angeles"
+    },
+    {
+      "id": "los-angeles-southwest",
+      "name": "Los Angeles Southwest College",
+      "district": "Los Angeles Community College District",
+      "address": "1600 West Imperial Highway, Los Angeles 90047-4899",
+      "phone": "323.241.5400",
+      "website": "www.lasc.edu",
+      "region": "Los Angeles"
+    },
+    {
+      "id": "los-angeles-trade-tech",
+      "name": "Los Angeles Trade-Tech College",
+      "district": "Los Angeles Community College District",
+      "address": "400 West Washington Boulevard, Los Angeles 90015-4108",
+      "phone": "213.763.5560",
+      "website": "www.lattc.edu",
+      "region": "Los Angeles"
+    },
+    {
+      "id": "los-angeles-valley",
+      "name": "Los Angeles Valley College",
+      "district": "Los Angeles Community College District",
+      "address": "5800 Fulton Avenue, Valley Glen 91401-4096",
+      "phone": "818.947.2600",
+      "website": "www.lavc.edu",
+      "region": "Los Angeles"
+    },
+    {
+      "id": "los-medanos",
+      "name": "Los Medanos College",
+      "district": "Contra Costa Community College District",
+      "address": "2700 East Leland Road, Pittsburg 94565-5197",
+      "phone": "925.439.2181",
+      "website": "www.losmedanos.edu",
+      "region": "Bay Area"
+    },
+    {
+      "id": "madera",
+      "name": "Madera Community College",
+      "district": "State Center Community College District",
+      "address": "30277 Avenue 12, Madera 93638",
+      "phone": "559.675.4129",
+      "website": "www.maderacollege.edu",
+      "region": "Central Valley"
+    },
+    {
+      "id": "mendocino",
+      "name": "Mendocino College",
+      "district": "Mendocino-Lake Community College District",
+      "address": "1000 Hensley Creek Road, Ukiah 95482-0300",
+      "phone": "707.468.3000",
+      "website": "www.mendocino.edu",
+      "region": "North Coast"
+    },
+    {
+      "id": "merced",
+      "name": "Merced College",
+      "district": "Merced Community College District",
+      "address": "3600 M Street, Merced 95348-2898",
+      "phone": "209.384.6000",
+      "website": "www.mccd.edu",
+      "region": "Central Valley"
+    },
+    {
+      "id": "merritt",
+      "name": "Merritt College",
+      "district": "Peralta Community College District",
+      "address": "12500 Campus Drive, Oakland 94619-3196",
+      "phone": "510.531.4911",
+      "website": "www.merritt.edu",
+      "region": "Bay Area"
+    },
+    {
+      "id": "miracosta",
+      "name": "MiraCosta College",
+      "district": "MiraCosta Community College District",
+      "address": "1 Barnard Drive, Oceanside 92056-3899",
+      "phone": "760.757.2121",
+      "website": "www.miracosta.edu",
+      "region": "San Diego"
+    },
+    {
+      "id": "mission",
+      "name": "Mission College",
+      "district": "West Valley-Mission Community College District",
+      "address": "3000 Mission College Boulevard, Santa Clara 95054-1897",
+      "phone": "408.855.5007",
+      "website": "www.missioncollege.edu",
+      "region": "Bay Area"
+    },
+    {
+      "id": "modesto-junior",
+      "name": "Modesto Junior College",
+      "district": "Yosemite Community College District",
+      "address": "435 College Avenue, Modesto 95350-5800",
+      "phone": "209.575.6550",
+      "website": "www.mjc.edu",
+      "region": "Central Valley"
+    },
+    {
+      "id": "monterey-peninsula",
+      "name": "Monterey Peninsula College",
+      "district": "Monterey Peninsula Community College District",
+      "address": "980 Fremont Street, Monterey 93940-4799",
+      "phone": "831.646.4000",
+      "website": "www.mpc.edu",
+      "region": "Central Coast"
+    },
+    {
+      "id": "moorpark",
+      "name": "Moorpark College",
+      "district": "Ventura County Community College District",
+      "address": "7075 Campus Road, Moorpark 93021-1695",
+      "phone": "805.378.1400",
+      "website": "www.moorparkcollege.edu",
+      "region": "Ventura"
+    },
+    {
+      "id": "moreno-valley",
+      "name": "Moreno Valley College",
+      "district": "Riverside Community College District",
+      "address": "16130 Lasselle Street, Moreno Valley 92551-2045",
+      "phone": "951.571.6100",
+      "website": "www.mvc.edu",
+      "region": "Inland Empire"
+    },
+    {
+      "id": "mt-san-antonio",
+      "name": "Mt. San Antonio College",
+      "district": "Mt. San Antonio Community College District",
+      "address": "1100 North Grand Avenue, Walnut 91789-1399",
+      "phone": "909.274.7500",
+      "website": "www.mtsac.edu",
+      "region": "Los Angeles"
+    },
+    {
+      "id": "mt-san-jacinto",
+      "name": "Mt. San Jacinto College",
+      "district": "Mt. San Jacinto Community College District",
+      "address": "1499 North State Street, San Jacinto 92583-2399",
+      "phone": "951.487.6752",
+      "website": "www.msjc.edu",
+      "region": "Inland Empire"
+    },
+    {
+      "id": "napa-valley",
+      "name": "Napa Valley College",
+      "district": "Napa Valley Community College District",
+      "address": "2277 Napa Vallejo Highway, Napa 94558-6236",
+      "phone": "707.256.7000",
+      "website": "www.napavalley.edu",
+      "region": "Bay Area"
+    },
+    {
+      "id": "norco",
+      "name": "Norco College",
+      "district": "Riverside Community College District",
+      "address": "2001 Third Street, Norco 92860-2600",
+      "phone": "951.372.7000",
+      "website": "www.norcocollege.edu",
+      "region": "Inland Empire"
+    },
+    {
+      "id": "ohlone",
+      "name": "Ohlone College",
+      "district": "Ohlone Community College District",
+      "address": "43600 Mission Boulevard, Fremont 94539-0911",
+      "phone": "510.659.6000",
+      "website": "www.ohlone.edu",
+      "region": "Bay Area"
+    },
+    {
+      "id": "orange-coast",
+      "name": "Orange Coast College",
+      "district": "Coast Community College District",
+      "address": "PO Box 5005, Costa Mesa 92628-5005",
+      "phone": "714.432.0202",
+      "website": "www.orangecoastcollege.edu",
+      "region": "Orange County"
+    },
+    {
+      "id": "oxnard",
+      "name": "Oxnard College",
+      "district": "Ventura County Community College District",
+      "address": "4000 South Rose Avenue, Oxnard 93033-6699",
+      "phone": "805.986.5800",
+      "website": "www.oxnardcollege.edu",
+      "region": "Ventura"
+    },
+    {
+      "id": "palo-verde",
+      "name": "Palo Verde College",
+      "district": "Palo Verde Community College District",
+      "address": "One College Drive, Blythe 92225-1118",
+      "phone": "760.921.5500",
+      "website": "www.paloverde.edu",
+      "region": "Inland Empire"
+    },
+    {
+      "id": "palomar",
+      "name": "Palomar College",
+      "district": "Palomar Community College District",
+      "address": "1140 West Mission Road, San Marcos 92069-1487",
+      "phone": "760.744.1150",
+      "website": "www.palomar.edu",
+      "region": "San Diego"
+    },
+    {
+      "id": "pasadena-city",
+      "name": "Pasadena City College",
+      "district": "Pasadena Area Community College District",
+      "address": "1570 East Colorado Boulevard, Pasadena 91106-2003",
+      "phone": "626.585.7123",
+      "website": "www.pasadena.edu",
+      "region": "Los Angeles"
+    },
+    {
+      "id": "porterville",
+      "name": "Porterville College",
+      "district": "Kern Community College District",
+      "address": "100 East College Avenue, Porterville 93257-5901",
+      "phone": "559.791.2200",
+      "website": "www.portervillecollege.edu",
+      "region": "Central Valley"
+    },
+    {
+      "id": "reedley",
+      "name": "Reedley College",
+      "district": "State Center Community College District",
+      "address": "995 N. Reed Avenue, Reedley 93654-2099",
+      "phone": "559.494.3000",
+      "website": "www.reedleycollege.edu",
+      "region": "Central Valley"
+    },
+    {
+      "id": "rio-hondo",
+      "name": "Rio Hondo College",
+      "district": "Rio Hondo Community College District",
+      "address": "3600 Workman Mill Road, Whittier 90601-1699",
+      "phone": "562.692.0921",
+      "website": "www.riohondo.edu",
+      "region": "Los Angeles"
+    },
+    {
+      "id": "riverside-city",
+      "name": "Riverside City College",
+      "district": "Riverside Community College District",
+      "address": "4800 Magnolia Avenue, Riverside 92506-1293",
+      "phone": "951.222.8000",
+      "website": "www.rcc.edu",
+      "region": "Inland Empire"
+    },
+    {
+      "id": "sacramento-city",
+      "name": "Sacramento City College",
+      "district": "Los Rios Community College District",
+      "address": "3835 Freeport Boulevard, Sacramento 95822-1386",
+      "phone": "916.558.2111",
+      "website": "www.scc.losrios.edu",
+      "region": "Sacramento"
+    },
+    {
+      "id": "saddleback",
+      "name": "Saddleback College",
+      "district": "South Orange County Community College District",
+      "address": "28000 Marguerite Parkway, Mission Viejo 92692-3699",
+      "phone": "949.582.4500",
+      "website": "www.saddleback.edu",
+      "region": "Orange County"
+    },
+    {
+      "id": "san-bernardino-valley",
+      "name": "San Bernardino Valley College",
+      "district": "San Bernardino Community College District",
+      "address": "701 S. Mt. Vernon Avenue, San Bernardino 92410-2798",
+      "phone": "909.384.4401",
+      "website": "www.valleycollege.edu",
+      "region": "Inland Empire"
+    },
+    {
+      "id": "san-diego-city",
+      "name": "San Diego City College",
+      "district": "San Diego Community College District",
+      "address": "1313 Park Boulevard, San Diego 92101-4787",
+      "phone": "619.388.3400",
+      "website": "www.sdcity.edu",
+      "region": "San Diego"
+    },
+    {
+      "id": "san-diego-mesa",
+      "name": "San Diego Mesa College",
+      "district": "San Diego Community College District",
+      "address": "7250 Mesa College Drive, San Diego 92111-4998",
+      "phone": "619.388.2600",
+      "website": "www.sdmesa.edu",
+      "region": "San Diego"
+    },
+    {
+      "id": "san-diego-miramar",
+      "name": "San Diego Miramar College",
+      "district": "San Diego Community College District",
+      "address": "10440 Black Mountain Road, San Diego 92126-2999",
+      "phone": "619.388.7800",
+      "website": "www.sdmiramar.edu",
+      "region": "San Diego"
+    },
+    {
+      "id": "san-joaquin-delta",
+      "name": "San Joaquin Delta College",
+      "district": "San Joaquin Delta Community College District",
+      "address": "5151 Pacific Avenue, Stockton 95207-6370",
+      "phone": "209.954.5151",
+      "website": "www.deltacollege.edu",
+      "region": "Central Valley"
+    },
+    {
+      "id": "san-jose-city",
+      "name": "San Jose City College",
+      "district": "San Jose-Evergreen Community College District",
+      "address": "2100 Moorpark Avenue, San Jose 95128-2799",
+      "phone": "408.298.2181",
+      "website": "www.sjcc.edu",
+      "region": "Bay Area"
+    },
+    {
+      "id": "santa-ana",
+      "name": "Santa Ana College",
+      "district": "Rancho Santiago Community College District",
+      "address": "1530 W. 17th Street, Santa Ana 92706-3398",
+      "phone": "714.564.6000",
+      "website": "www.sac.edu",
+      "region": "Orange County"
+    },
+    {
+      "id": "santa-barbara-city",
+      "name": "Santa Barbara City College",
+      "district": "Santa Barbara Community College District",
+      "address": "721 Cliff Drive, Santa Barbara 93109-2394",
+      "phone": "805.965.0581",
+      "website": "www.sbcc.edu",
+      "region": "Central Coast"
+    },
+    {
+      "id": "santa-monica",
+      "name": "Santa Monica College",
+      "district": "Santa Monica Community College District",
+      "address": "1900 Pico Boulevard, Santa Monica 90405-1628",
+      "phone": "310.434.4000",
+      "website": "www.smc.edu",
+      "region": "Los Angeles"
+    },
+    {
+      "id": "santa-rosa-junior",
+      "name": "Santa Rosa Junior College",
+      "district": "Sonoma County Community College District",
+      "address": "1501 Mendocino Avenue, Santa Rosa 95401-4395",
+      "phone": "707.527.4011",
+      "website": "www.santarosa.edu",
+      "region": "North Bay"
+    },
+    {
+      "id": "santiago-canyon",
+      "name": "Santiago Canyon College",
+      "district": "Rancho Santiago Community College District",
+      "address": "8045 E. Chapman Avenue, Orange 92869-4512",
+      "phone": "714.628.4900",
+      "website": "www.sccollege.edu",
+      "region": "Orange County"
+    },
+    {
+      "id": "shasta",
+      "name": "Shasta College",
+      "district": "Shasta-Tehama-Trinity Joint Community College District",
+      "address": "11555 Old Oregon Trail, Redding 96049-6006",
+      "phone": "530.242.7500",
+      "website": "www.shastacollege.edu",
+      "region": "North State"
+    },
+    {
+      "id": "sierra",
+      "name": "Sierra College",
+      "district": "Sierra Joint Community College District",
+      "address": "5100 Sierra College Blvd., Rocklin 95677-3397",
+      "phone": "916.624.3333",
+      "website": "www.sierracollege.edu",
+      "region": "Sacramento"
+    },
+    {
+      "id": "skyline",
+      "name": "Skyline College",
+      "district": "San Mateo County Community College District",
+      "address": "3300 College Drive, San Bruno 94066-1662",
+      "phone": "650.738.4100",
+      "website": "www.skylinecollege.edu",
+      "region": "Bay Area"
+    },
+    {
+      "id": "solano",
+      "name": "Solano Community College",
+      "district": "Solano County Community College District",
+      "address": "4000 Suisun Valley Road, Fairfield 94534-3197",
+      "phone": "707.864.7000",
+      "website": "www.solano.edu",
+      "region": "Bay Area"
+    },
+    {
+      "id": "southwestern",
+      "name": "Southwestern College",
+      "district": "Southwestern Community College District",
+      "address": "900 Otay Lakes Road, Chula Vista 91910-7299",
+      "phone": "619.421.6700",
+      "website": "www.swccd.edu",
+      "region": "San Diego"
+    },
+    {
+      "id": "taft",
+      "name": "Taft College",
+      "district": "West Kern Community College District",
+      "address": "29 Cougar Ct., Taft 93268-4217",
+      "phone": "661.763.7700",
+      "website": "www.taftcollege.edu",
+      "region": "Central Valley"
+    },
+    {
+      "id": "ventura",
+      "name": "Ventura College",
+      "district": "Ventura County Community College District",
+      "address": "4667 Telegraph Road, Ventura 93003-3899",
+      "phone": "805.289.6000",
+      "website": "www.venturacollege.edu",
+      "region": "Ventura"
+    },
+    {
+      "id": "victor-valley",
+      "name": "Victor Valley College",
+      "district": "Victor Valley Community College District",
+      "address": "18422 Bear Valley Road, Victorville 92395-5849",
+      "phone": "760.245.4271",
+      "website": "www.vvc.edu",
+      "region": "Inland Empire"
+    },
+    {
+      "id": "west-hills-coalinga",
+      "name": "West Hills College Coalinga",
+      "district": "West Hills Community College District",
+      "address": "300 Cherry Lane, Coalinga 93210-1301",
+      "phone": "559.934.2000",
+      "website": "www.westhillscollege.com/coalinga",
+      "region": "Central Valley"
+    },
+    {
+      "id": "west-hills-lemoore",
+      "name": "West Hills College Lemoore",
+      "district": "West Hills Community College District",
+      "address": "555 College Avenue, Lemoore 93245-9248",
+      "phone": "559.925.3000",
+      "website": "www.westhillscollege.com/lemoore",
+      "region": "Central Valley"
+    },
+    {
+      "id": "west-los-angeles",
+      "name": "West Los Angeles College",
+      "district": "Los Angeles Community College District",
+      "address": "9000 Overland Avenue, Culver City 90230-5002",
+      "phone": "310.287.4200",
+      "website": "www.wlac.edu",
+      "region": "Los Angeles"
+    },
+    {
+      "id": "west-valley",
+      "name": "West Valley College",
+      "district": "West Valley-Mission Community College District",
+      "address": "14000 Fruitvale Avenue, Saratoga 95070-5699",
+      "phone": "408.867.2200",
+      "website": "www.westvalley.edu",
+      "region": "Bay Area"
+    },
+    {
+      "id": "woodland",
+      "name": "Woodland Community College",
+      "district": "Yuba Community College District",
+      "address": "2300 E. Gibson Road, Woodland 95776-5156",
+      "phone": "530.661.5700",
+      "website": "wcc.yccd.edu",
+      "region": "Sacramento"
+    },
+    {
+      "id": "yuba",
+      "name": "Yuba College",
+      "district": "Yuba Community College District",
+      "address": "2088 North Beale Road, Marysville 95901-7699",
+      "phone": "530.741.6700",
+      "website": "yc.yccd.edu",
+      "region": "Sacramento"
+    }
+  ]
+}
