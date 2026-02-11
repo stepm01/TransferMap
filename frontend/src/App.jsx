@@ -28,10 +28,6 @@ const GROQ_API_KEY = ""; // <-- Paste your key
 const GROQ_BASE_URL = "https://api.groq.com/openai/v1";
 const GROQ_MODEL = "llama-3.3-70b-versatile"; // Fast & capable
 
-// OpenRouter (PAID - Claude)
-//const OPENROUTER_API_KEY = "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";
-//const OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1";
-//const OPENROUTER_MODEL = "anthropic/claude-sonnet-4";
 
 // ==================== COLLEGE DATA ====================
 const UC_CAMPUSES = [
